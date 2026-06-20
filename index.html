@@ -227,7 +227,8 @@
         }
 
         // Chargement des données générées par le robot Python
-        fetch('data/youtube_viral.json')
+        fetch('./data/youtube_viral.json')
+
             .then(res => res.json())
             .then(data => {
                 document.getElementById('update-time').innerText = `Mis à jour le : ${data.last_updated}`;
