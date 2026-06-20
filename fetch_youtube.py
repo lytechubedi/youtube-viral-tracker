@@ -4,7 +4,7 @@ import urllib.request
 from datetime import datetime
 
 def run_youtube_bot():
-    print("Démarrage du scanner de tendances YouTube...")
+    print("Démarrage du scanner de tendances YouTube (Marché US)...")
     
     # Récupération sécurisée de la clé API
     api_key = os.environ.get("YOUTUBE_API_KEY")
@@ -12,8 +12,8 @@ def run_youtube_bot():
         print("Erreur : La clé YOUTUBE_API_KEY est introuvable.")
         return
 
-    # Requête officielle vers l'API YouTube (Top 10 des vidéos les plus populaires en France)
-    url = f"https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode=FR&maxResults=10&key={api_key}"
+    # Requête officielle vers l'API YouTube (Top 10 des vidéos les plus populaires aux États-Unis - regionCode=US)
+    url = f"https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode=US&maxResults=10&key={api_key}"
     
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -34,20 +34,31 @@ def run_youtube_bot():
             likes = stats.get("likeCount", "0")
             video_id = video.get("id")
             
-            # Transformation des tags en #Hashtags exploitables
-            hashtags = [f"#{tag.replace(' ', '')}" for tag in tags[:8]] if tags else ["#Trending", "#Viral"]
+            # Transformation des tags en #Hashtags exploitables (avec tag US par défaut)
+            hashtags = [f"#{tag.replace(' ', '')}" for tag in tags[:8]] if tags else ["#TrendingUS", "#Viral", "#Shorts"]
             
             # Nettoyage rapide de la description pour l'affichage
             clean_desc = description.split('\n')[0] if '\n' in description else description
             if len(clean_desc) > 200:
                 clean_desc = clean_desc[:200] + "..."
 
+            # Formatage des nombres pour qu'ils soient lisibles (ex: 1 500 000)
+            try:
+                vues_format = f"{int(views):,}".replace(",", " ")
+            except:
+                vues_format = views
+                
+            try:
+                likes_format = f"{int(likes):,}".replace(",", " ")
+            except:
+                likes_format = likes
+
             structured_videos.append({
                 "title": title,
                 "video_url": f"https://www.youtube.com/watch?v={video_id}",
                 "thumbnail": snippet.get("thumbnails", {}).get("high", {}).get("url"),
-                "views": views,
-                "likes": likes,
+                "views": vues_format,
+                "likes": likes_format,
                 "hashtags": hashtags,
                 "description": clean_desc,
                 "channel_title": snippet.get("channelTitle")
@@ -65,7 +76,7 @@ def run_youtube_bot():
         with open("data/youtube_viral.json", "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=4)
             
-        print(f"Succès ! {len(structured_videos)} vidéos synchronisées.")
+        print(f"Succès ! {len(structured_videos)} vidéos US synchronisées.")
         
     except Exception as e:
         print(f"Erreur technique : {e}")
