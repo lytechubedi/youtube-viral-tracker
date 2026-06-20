@@ -1,0 +1,33 @@
+name: YouTube Viral Tracker Cron
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Se lance automatiquement toutes les 12 heures
+  workflow_dispatch: # Permet le déclenchement manuel
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Récupération du code
+      uses: actions/checkout@v3
+
+    - name: Configuration de Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Exécution du Robot
+      env:
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }} # Liaison sécurisée avec ton secret
+      run: python fetch_youtube.py
+
+    - name: Sauvegarde des résultats
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "YouTube-Bot"
+        git add data/youtube_viral.json || true
+        git commit -m "Mise à jour des vidéos virales [Auto]" || true
+        git push || true
+
