@@ -1,50 +1,102 @@
 {
-    "last_updated": "27/06/2026 à 09:19",
+    "last_updated": "27/06/2026 à 15:55",
     "videos": [
         {
-            "title": "Stray Kids \"RUN IT\" M/V",
-            "video_url": "https://www.youtube.com/watch?v=Q7IFjVUUb_E",
-            "thumbnail": "https://i.ytimg.com/vi/Q7IFjVUUb_E/hqdefault.jpg",
-            "views": "18 499 552",
-            "likes": "1 145 662",
+            "title": "Rod Wave - Piece Of Your Love (Short Film)",
+            "video_url": "https://www.youtube.com/watch?v=Ojyu-svsBZY",
+            "thumbnail": "https://i.ytimg.com/vi/Ojyu-svsBZY/hqdefault.jpg",
+            "views": "673 032",
+            "likes": "65 542",
             "hashtags": [
-                "#JYPEntertainment",
-                "#JYP",
-                "#StrayKids",
-                "#스트레이키즈",
-                "#SKZ",
-                "#스키즈",
-                "#방찬",
-                "#BANGCHAN"
+                "#rodwave",
+                "#ghettogospel",
+                "#kevingates",
+                "#soulfly",
+                "#soulflydeluxe",
+                "#tiktok",
+                "#kodakblack",
+                "#lildurk"
             ],
-            "description": "Stray Kids(스트레이 키즈) \"RUN IT\" M/V",
-            "channel_title": "JYP Entertainment"
+            "description": "Presave “Don’t Look Down” releasing 8/28: https://rodwave.lnk.to/DLD",
+            "channel_title": "RodWave"
         },
         {
-            "title": "Spider-Man Brand New Day NEW FOOTAGE Breakdown! New Easter Eggs You Missed!",
-            "video_url": "https://www.youtube.com/watch?v=ynR3e3R7NjE",
-            "thumbnail": "https://i.ytimg.com/vi/ynR3e3R7NjE/hqdefault.jpg",
-            "views": "420 273",
-            "likes": "12 750",
+            "title": "Transcendence Trailer - \"Sudden Snow\" | Genshin Impact #GenshinImpact #GenshinSnezhnaya",
+            "video_url": "https://www.youtube.com/watch?v=y2Zcmcbrm9s",
+            "thumbnail": "https://i.ytimg.com/vi/y2Zcmcbrm9s/hqdefault.jpg",
+            "views": "2 665 178",
+            "likes": "266 130",
             "hashtags": [
-                "#newrockstars",
-                "#newrockstarsyoutube",
-                "#youtubenewrockstars",
-                "#spider-manbrandnewday",
-                "#brandnewdaytrailer",
-                "#brandnewdaytrailerbreakdown",
-                "#spider-manvshulk",
-                "#ramrod"
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
             ],
-            "description": "Spider-Man Brand New Day Easter Eggs we missed from new TV promos! Get your $5 sign-up bonus at  http://privacy.com/rockstars. You can use it on your first purchase! Privacy has a free plan with no tr...",
-            "channel_title": "New Rockstars"
+            "description": "Sleep well, sleep well, children of this world...",
+            "channel_title": "Genshin Impact"
         },
         {
-            "title": "Meccha Chameleon - Next Level Spots in Call of Duty!",
-            "video_url": "https://www.youtube.com/watch?v=U-JyUSsROC0",
-            "thumbnail": "https://i.ytimg.com/vi/U-JyUSsROC0/hqdefault.jpg",
-            "views": "1 328 545",
-            "likes": "57 907",
+            "title": "They Couldn't Find Me AT ALL",
+            "video_url": "https://www.youtube.com/watch?v=shlFrEGeGwI",
+            "thumbnail": "https://i.ytimg.com/vi/shlFrEGeGwI/hqdefault.jpg",
+            "views": "1 706 226",
+            "likes": "104 618",
+            "hashtags": [
+                "#smii7y",
+                "#smii7yplus",
+                "#smii7y+",
+                "#smii7yplus",
+                "#mecchachameleon",
+                "#mecchachameleongame",
+                "#mecchachameleonfunnymoments",
+                "#mecchachameleongameplay"
+            ],
+            "description": "I love Meccha Chameleon... Leave a like for more",
+            "channel_title": "SMii7Yplus"
+        },
+        {
+            "title": "Anuel AA - Las Mas Bonitas Son P*tas (Video Oficial)",
+            "video_url": "https://www.youtube.com/watch?v=vutbVGewIcg",
+            "thumbnail": "https://i.ytimg.com/vi/vutbVGewIcg/hqdefault.jpg",
+            "views": "1 700 035",
+            "likes": "236 812",
+            "hashtags": [
+                "#AnuelAA",
+                "#anuel",
+                "#Freeanuel",
+                "#Realhastalamuerte",
+                "#NewMusic",
+                "#Reggaeton",
+                "#Trap",
+                "#LatinTrap"
+            ],
+            "description": "REAL HASTA LA MUERTE PRESENTA A @AnuelAA EN “LAS MAS BONITAS SON P#TAS”.",
+            "channel_title": "Anuel AA"
+        },
+        {
+            "title": "GTA 6 - EVERYTHING WE KNOW!",
+            "video_url": "https://www.youtube.com/watch?v=1rjw7yD6H8Y",
+            "thumbnail": "https://i.ytimg.com/vi/1rjw7yD6H8Y/hqdefault.jpg",
+            "views": "375 141",
+            "likes": "5 495",
+            "hashtags": [
+                "#gta6",
+                "#GTA6-EVERYTHINGWEKNOW!",
+                "#gta6trailer3",
+                "#trailer3gta6",
+                "#gta6newtrailer",
+                "#newgta6trailer",
+                "#grandtheftauto6",
+                "#newgta"
+            ],
+            "description": "GTA 6 - Everything We Know! (Before Trailer 3)",
+            "channel_title": "T5G"
+        },
+        {
+            "title": "Meccha Chameleon - ELITE Level Hiding Spots!",
+            "video_url": "https://www.youtube.com/watch?v=oQSGKDOayAg",
+            "thumbnail": "https://i.ytimg.com/vi/oQSGKDOayAg/hqdefault.jpg",
+            "views": "496 228",
+            "likes": "26 865",
             "hashtags": [
                 "#FunnyMoments",
                 "#Montagevideogames",
@@ -55,121 +107,76 @@
                 "#Secret",
                 "#Puncake"
             ],
-            "description": "Outro Song: https://www.youtube.com/watch?v=qKUW51BOJy8",
+            "description": "$500 GIVEAWAY! How to enter: sign up to Whatnot using my link https://www.whatnot.com/invite/VanossGaming and follow me on Whatnot. Winner will be picked in a month. #whatnotpartner ",
             "channel_title": "VanossGaming"
         },
         {
-            "title": "MYKE TOWERS || BZRP Music Sessions #42/66",
-            "video_url": "https://www.youtube.com/watch?v=ic2A-IAGMcE",
-            "thumbnail": "https://i.ytimg.com/vi/ic2A-IAGMcE/hqdefault.jpg",
-            "views": "4 569 684",
-            "likes": "421 318",
+            "title": "Benson Boone - The Time Of My Life (Official Music Video)",
+            "video_url": "https://www.youtube.com/watch?v=ptlsli-QXXc",
+            "thumbnail": "https://i.ytimg.com/vi/ptlsli-QXXc/hqdefault.jpg",
+            "views": "1 220 083",
+            "likes": "49 125",
             "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
+                "#BensonBoone",
+                "#bensonboonenewsong",
+                "#bensonboonenewmusic",
+                "#BensonBooneNewMusic",
+                "#bensonboonebeautifulthings",
+                "#newbensonboone",
+                "#bensonboonemusicvideo",
+                "#newbensonboonemusicvideo"
             ],
-            "description": "#Bizarrap #MykeTowers ",
-            "channel_title": "Bizarrap"
+            "description": "Benson Boone - The Time Of My Life (Official Music Video)",
+            "channel_title": "Benson Boone"
         },
         {
-            "title": "Practical Magic 2 | Official Trailer",
-            "video_url": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
-            "thumbnail": "https://i.ytimg.com/vi/Ho10_4IX1jE/hqdefault.jpg",
-            "views": "7 816 399",
-            "likes": "13 934",
+            "title": "Hammer and Bolter: The Butcher's Nails Trailer | Big Summer Preview 2026",
+            "video_url": "https://www.youtube.com/watch?v=IQwGg1hwtX0",
+            "thumbnail": "https://i.ytimg.com/vi/IQwGg1hwtX0/hqdefault.jpg",
+            "views": "209 911",
+            "likes": "10 586",
             "hashtags": [
-                "#2026",
-                "#ComingSoon",
-                "#DianneWest",
-                "#Fantasy",
-                "#JoeyKing",
-                "#LeePace",
-                "#Magic",
-                "#MaisieWilliams"
+                "#warhammer40000",
+                "#warhammer40k",
+                "#40k",
+                "#40klore",
+                "#warhammer"
             ],
-            "description": "It's the season of the witch. #PracticalMagic2 casts its spell in theaters this September.",
-            "channel_title": "Warner Bros."
+            "description": "KILL! MAIM! BURN! A Khorne Berzerker goes on a rampage in this brand new trailer for Hammer and Bolter: The Butcher's Nails – coming to Warhammer+ soon. ",
+            "channel_title": "Warhammer 40,000"
         },
         {
-            "title": "+1 Speed Keyboard Escape Live!",
-            "video_url": "https://www.youtube.com/watch?v=JFzLaXckaBU",
-            "thumbnail": "https://i.ytimg.com/vi/JFzLaXckaBU/hqdefault.jpg",
-            "views": "463 914",
-            "likes": "2 348",
+            "title": "🔴LIVE | SAND: RAIDERS OF SOHPIE | OFFICER X GIMMICK X Summit | #BUNGULATE",
+            "video_url": "https://www.youtube.com/watch?v=n85D5Sp3NUU",
+            "thumbnail": "https://i.ytimg.com/vi/n85D5Sp3NUU/hqdefault.jpg",
+            "views": "518 523",
+            "likes": "8 842",
             "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
+                "#funny",
+                "#escapefromtarkov",
+                "#tarkov"
             ],
             "description": "",
-            "channel_title": "FridBlox"
+            "channel_title": "TheBurntPeanut"
         },
         {
-            "title": "34. Flower Man (DELTARUNE Chapter 5 Soundtrack) - Toby Fox",
-            "video_url": "https://www.youtube.com/watch?v=GWf9_qSrnOM",
-            "thumbnail": "https://i.ytimg.com/vi/GWf9_qSrnOM/hqdefault.jpg",
-            "views": "1 242 607",
-            "likes": "41 645",
+            "title": "ATEEZ(에이티즈) - 'BAD' Official MV",
+            "video_url": "https://www.youtube.com/watch?v=-q_S27LbNKU",
+            "thumbnail": "https://i.ytimg.com/vi/-q_S27LbNKU/hqdefault.jpg",
+            "views": "9 001 008",
+            "likes": "280 381",
             "hashtags": [
-                "#DELTARUNE",
-                "#TobyFox",
-                "#VideoGameSoundtrack",
-                "#VideoGameMusic"
+                "#KQ",
+                "#케이큐",
+                "#ATEEZ",
+                "#에이티즈",
+                "#홍중",
+                "#HONGJOONG",
+                "#성화",
+                "#SEONGHWA"
             ],
-            "description": "Listen elsewhere: https://materia.to/deltarune5ID ",
-            "channel_title": "Toby Fox"
-        },
-        {
-            "title": "King of the Hill Season 15 | Official Trailer | Hulu",
-            "video_url": "https://www.youtube.com/watch?v=g2JXuQ3nKPU",
-            "thumbnail": "https://i.ytimg.com/vi/g2JXuQ3nKPU/hqdefault.jpg",
-            "views": "4 596 514",
-            "likes": "11 897",
-            "hashtags": [
-                "#hulu",
-                "#disney",
-                "#hulumovies",
-                "#hulushows",
-                "#hulutv",
-                "#hulutvshows",
-                "#disneystreaming",
-                "#disneyhulu"
-            ],
-            "description": "Hank and Peggy settle into retirement life on Rainey Street while attempting to keep their neighbors from going off the rails. Bobby navigates old friendships while dealing with the stresses of being ...",
-            "channel_title": "Hulu"
-        },
-        {
-            "title": "Playing the REAL Verity Mod... One More Time...",
-            "video_url": "https://www.youtube.com/watch?v=sv6LFf4eANw",
-            "thumbnail": "https://i.ytimg.com/vi/sv6LFf4eANw/hqdefault.jpg",
-            "views": "2 939 818",
-            "likes": "81 960",
-            "hashtags": [
-                "#BestofMinecraft",
-                "#TheBestMinecraftMoments",
-                "#TheFunniestMinecraftMoments",
-                "#ThebestMomentsinMinecraftHistory",
-                "#lookout3d",
-                "#lookout2d",
-                "#horror",
-                "#thatmob"
-            ],
-            "description": "Today I played with Verity FOR THE LAST TIME! (Part 4)... CREDIT TO @ThatMob For letting me make a parody of his popular verity mod series!",
-            "channel_title": "LookOut2DD"
-        },
-        {
-            "title": "Nunca Supiste Que Te Esperé",
-            "video_url": "https://www.youtube.com/watch?v=z42YNGpWifA",
-            "thumbnail": "https://i.ytimg.com/vi/z42YNGpWifA/hqdefault.jpg",
-            "views": "733 463",
-            "likes": "13 169",
-            "hashtags": [
-                "#GrupoFirme",
-                "#NuncaSupisteQueTeEsperé"
-            ],
-            "description": "Provided to YouTube by Virgin Music Group",
-            "channel_title": "Grupo Firme - Topic"
+            "description": "ATEEZ(에이티즈) - GOLDEN HOUR : Part.5",
+            "channel_title": "KQ ENTERTAINMENT"
         }
     ]
 }
