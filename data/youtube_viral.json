@@ -1,64 +1,96 @@
 {
-    "last_updated": "28/06/2026 à 16:41",
+    "last_updated": "29/06/2026 à 14:41",
     "videos": [
         {
-            "title": "Anuel AA - Las Mas Bonitas Son P*tas (Video Oficial)",
-            "video_url": "https://www.youtube.com/watch?v=vutbVGewIcg",
-            "thumbnail": "https://i.ytimg.com/vi/vutbVGewIcg/hqdefault.jpg",
-            "views": "3 135 848",
-            "likes": "285 422",
+            "title": "Kodak Black - Lemon Squeeze (Official Music Video)",
+            "video_url": "https://www.youtube.com/watch?v=noKWHhLR9Mc",
+            "thumbnail": "https://i.ytimg.com/vi/noKWHhLR9Mc/hqdefault.jpg",
+            "views": "71 546",
+            "likes": "5 598",
             "hashtags": [
-                "#AnuelAA",
-                "#anuel",
-                "#Freeanuel",
-                "#Realhastalamuerte",
-                "#NewMusic",
-                "#Reggaeton",
-                "#Trap",
-                "#LatinTrap"
+                "#kodak",
+                "#black",
+                "#kodakblack",
+                "#atlanticrecords",
+                "#rollinpeace",
+                "#codeinedreaming",
+                "#tunnelvision",
+                "#drowning"
             ],
-            "description": "REAL HASTA LA MUERTE PRESENTA A @AnuelAA EN “LAS MAS BONITAS SON P#TAS”.",
-            "channel_title": "Anuel AA"
+            "description": "Kodak Black - Lemon Squeeze (Official Music Video)",
+            "channel_title": "Kodak Black"
         },
         {
-            "title": "GUILTY GEAR -STRIVE- Season Pass 5 Playable Character #2 [Robo-Ky] Trailer",
-            "video_url": "https://www.youtube.com/watch?v=DtgIsJJ6YuY",
-            "thumbnail": "https://i.ytimg.com/vi/DtgIsJJ6YuY/hqdefault.jpg",
-            "views": "318 695",
-            "likes": "21 154",
+            "title": "Joe | Official Trailer",
+            "video_url": "https://www.youtube.com/watch?v=Js7PKsarC5Q",
+            "thumbnail": "https://i.ytimg.com/vi/Js7PKsarC5Q/hqdefault.jpg",
+            "views": "548 132",
+            "likes": "51 663",
+            "hashtags": [
+                "#druski",
+                "#druskitv",
+                "#druski2funny",
+                "#couldabeenrecords",
+                "#couldabeenrecordsauditions",
+                "#druskicouldabeenrecords",
+                "#druskicouldabeen",
+                "#druskiauditions"
+            ],
+            "description": "The prequel to MICHAEL... 'JOE' 😂 COMING TO THEATERS THIS FALL ",
+            "channel_title": "Druski"
+        },
+        {
+            "title": "The Strokes - Going Shopping (Official Video)",
+            "video_url": "https://www.youtube.com/watch?v=4u3iI1WuU0k",
+            "thumbnail": "https://i.ytimg.com/vi/4u3iI1WuU0k/hqdefault.jpg",
+            "views": "263 665",
+            "likes": "24 238",
+            "hashtags": [
+                "#GoingShopping",
+                "#TheStrokes"
+            ],
+            "description": "Official Video for “Going Shopping” by The Strokes",
+            "channel_title": "thestrokesVEVO"
+        },
+        {
+            "title": "Marvel Tōkon: Fighting Souls - Samurai Outriders Trailer | PS5 & PC Games",
+            "video_url": "https://www.youtube.com/watch?v=JjpJ2xwUagM",
+            "thumbnail": "https://i.ytimg.com/vi/JjpJ2xwUagM/hqdefault.jpg",
+            "views": "446 906",
+            "likes": "30 818",
+            "hashtags": [
+                "#PlayStation",
+                "#PS5",
+                "#videogames",
+                "#nextgen",
+                "#Sony",
+                "#Marvel",
+                "#MarvelTokon",
+                "#SamuraiOutriders"
+            ],
+            "description": "https://www.playstation.com/games/marvel-tokon-fighting-souls/",
+            "channel_title": "PlayStation"
+        },
+        {
+            "title": "+1 Speed Keyboard Escape Live!",
+            "video_url": "https://www.youtube.com/watch?v=CprTAfZAUrw",
+            "thumbnail": "https://i.ytimg.com/vi/CprTAfZAUrw/hqdefault.jpg",
+            "views": "352 758",
+            "likes": "1 952",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
                 "#Shorts"
             ],
-            "description": "■Official website: https://www.guiltygear.com/ggst/en/",
-            "channel_title": "arcsystemworks"
-        },
-        {
-            "title": "Brawl Talk: Kenji & Kaze's Baby?",
-            "video_url": "https://www.youtube.com/watch?v=pgGThZitPis",
-            "thumbnail": "https://i.ytimg.com/vi/pgGThZitPis/hqdefault.jpg",
-            "views": "6 298 016",
-            "likes": "242 949",
-            "hashtags": [
-                "#brawlstars",
-                "#mobilegame",
-                "#mobilestrategygame",
-                "#mobilerpg",
-                "#mobilebattleroyale",
-                "#battleroyale",
-                "#supercellgame",
-                "#brawltalk"
-            ],
-            "description": "Brawl Talk Freebie: https://link.brawlstars.com/voucher/7bae5a2d-2afa-4e58-8f9b-dab2d987834c",
-            "channel_title": "Brawl Stars"
+            "description": "",
+            "channel_title": "FridBlox"
         },
         {
             "title": "THE AMAZING DIGITAL CIRCUS - Ep 9: Alternate Ending | TADC Fan Animation",
             "video_url": "https://www.youtube.com/watch?v=zaNNLwHIUfE",
             "thumbnail": "https://i.ytimg.com/vi/zaNNLwHIUfE/hqdefault.jpg",
-            "views": "611 660",
-            "likes": "21 318",
+            "views": "874 813",
+            "likes": "26 428",
             "hashtags": [
                 "#theamazingdigitalcircus",
                 "#tadc",
@@ -73,94 +105,61 @@
             "channel_title": "MilkyyMelodies"
         },
         {
-            "title": "The Love Hypothesis - Official Teaser Trailer | Prime Video",
-            "video_url": "https://www.youtube.com/watch?v=vo0N_i326as",
-            "thumbnail": "https://i.ytimg.com/vi/vo0N_i326as/hqdefault.jpg",
-            "views": "344 353",
-            "likes": "13 078",
+            "title": "WERWULF - Official Trailer [HD] - Only In Theaters Christmas",
+            "video_url": "https://www.youtube.com/watch?v=cmjpadVj-Vk",
+            "thumbnail": "https://i.ytimg.com/vi/cmjpadVj-Vk/hqdefault.jpg",
+            "views": "218 062",
+            "likes": "26 925",
             "hashtags": [
-                "#thelovehypothesisofficialteaser",
-                "#thelovehypothesisteaser",
-                "#thelovehypothesis2026",
-                "#officialteaser",
-                "#teaser",
-                "#teaser2026",
-                "#newamazonteaser",
-                "#thelovehypothesisprimevideo"
+                "#FocusFeatures",
+                "#RobertEggers",
+                "#Sjón",
+                "#ChrisColumbus",
+                "#EleanorColumbus",
+                "#EricFellner",
+                "#TimBevan",
+                "#GarrettBird"
             ],
-            "description": "We tested it. The results are in. The chemistry is there. The Love Hypothesis is streaming on @PrimeVideo  September 23.",
-            "channel_title": "Prime Video"
+            "description": "Do not dread the darkness. Embrace it. Robert Eggers' WERWULF is only in theaters this Christmas.",
+            "channel_title": "Focus Features"
         },
         {
-            "title": "Everything is Kryoz's fault in this video...",
-            "video_url": "https://www.youtube.com/watch?v=HjE3EWGWAYs",
-            "thumbnail": "https://i.ytimg.com/vi/HjE3EWGWAYs/hqdefault.jpg",
-            "views": "1 301 084",
-            "likes": "58 449",
+            "title": "Hay Day is expanding the Beach Area!",
+            "video_url": "https://www.youtube.com/watch?v=MMoteNXoelw",
+            "thumbnail": "https://i.ytimg.com/vi/MMoteNXoelw/hqdefault.jpg",
+            "views": "626 700",
+            "likes": "16 746",
             "hashtags": [
-                "#smii7y",
-                "#smii7yplus",
-                "#smii7y+",
-                "#smii7yplus",
-                "#rosalie",
-                "#rosaliegame",
-                "#rosaliegameplay",
-                "#rosaliegameplaypc"
+                "#HayDay",
+                "#HayDay",
+                "#Supercell",
+                "#Suprcell",
+                "#Farming",
+                "#Farmlife",
+                "#mobile",
+                "#tablet"
             ],
-            "description": "The truth finally comes out... It was all Kryoz's fault.",
-            "channel_title": "SMii7Y"
+            "description": "Claim the QR code: https://link.haydaygame.com/?action=voucher&code=4cb26aa1-d302-4165-8e05-07e96d6e8474",
+            "channel_title": "Hay Day"
         },
         {
-            "title": "Rod Wave - Piece Of Your Love (Short Film)",
-            "video_url": "https://www.youtube.com/watch?v=Ojyu-svsBZY",
-            "thumbnail": "https://i.ytimg.com/vi/Ojyu-svsBZY/hqdefault.jpg",
-            "views": "901 099",
-            "likes": "72 204",
+            "title": "Anuel AA - Las Mas Bonitas Son P*tas (Video Oficial)",
+            "video_url": "https://www.youtube.com/watch?v=vutbVGewIcg",
+            "thumbnail": "https://i.ytimg.com/vi/vutbVGewIcg/hqdefault.jpg",
+            "views": "4 519 878",
+            "likes": "316 831",
             "hashtags": [
-                "#rodwave",
-                "#ghettogospel",
-                "#kevingates",
-                "#soulfly",
-                "#soulflydeluxe",
-                "#tiktok",
-                "#kodakblack",
-                "#lildurk"
-            ],
-            "description": "Presave “Don’t Look Down” releasing 8/28: https://rodwave.lnk.to/DLD",
-            "channel_title": "RodWave"
-        },
-        {
-            "title": "Gouie: The Lost Mireling | Official Character Trailer - Rivals of Aether II",
-            "video_url": "https://www.youtube.com/watch?v=gVCjCZe_HHA",
-            "thumbnail": "https://i.ytimg.com/vi/gVCjCZe_HHA/hqdefault.jpg",
-            "views": "54 587",
-            "likes": "4 216",
-            "hashtags": [
-                "#'rivals",
-                "#of",
-                "#aether'"
-            ],
-            "description": "Gouie joins the roster in our 7th free character update dropping on August 4th 2026! See the first look here in his official reveal trailer #rivalsofaether  #rivalsofaetherii #rivalsofaether2  #rivals...",
-            "channel_title": "Aether Studios"
-        },
-        {
-            "title": "ALOFOKE MUSIC - DQMP X JEY ONE X ISHOWSPEED - NENA",
-            "video_url": "https://www.youtube.com/watch?v=yeBqqAuDL7E",
-            "thumbnail": "https://i.ytimg.com/vi/yeBqqAuDL7E/hqdefault.jpg",
-            "views": "842 215",
-            "likes": "72 445",
-            "hashtags": [
-                "#BadBunny",
-                "#Dembow",
-                "#Reggaeton",
-                "#KarolG",
                 "#AnuelAA",
+                "#anuel",
+                "#Freeanuel",
+                "#Realhastalamuerte",
+                "#NewMusic",
+                "#Reggaeton",
                 "#Trap",
-                "#Rap",
-                "#Salsa"
+                "#LatinTrap"
             ],
-            "description": "Alofoke Music - DQMP x Jey One x IShowSpeed - Nena prod Argel Beatz x Nostick x B One x LR Ley del Rap",
-            "channel_title": "AlofokeMusicSounds"
+            "description": "🔥 REAL HASTA LA MUERTE 🔥",
+            "channel_title": "Anuel AA"
         }
     ]
 }
