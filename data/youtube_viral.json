@@ -1,26 +1,78 @@
 {
-    "last_updated": "08/07/2026 à 17:12",
+    "last_updated": "09/07/2026 à 11:30",
     "videos": [
         {
-            "title": "King Gizzard & the Lizard Wizard - Level 5 [Official Video]",
-            "video_url": "https://www.youtube.com/watch?v=mp-HWukUDSE",
-            "thumbnail": "https://i.ytimg.com/vi/mp-HWukUDSE/hqdefault.jpg",
-            "views": "53 605",
-            "likes": "9 138",
+            "title": "Em I Orait - Tonton Malele (feat. Jarahn & Rich Antony)",
+            "video_url": "https://www.youtube.com/watch?v=WbkQp_XEJbw",
+            "thumbnail": "https://i.ytimg.com/vi/WbkQp_XEJbw/hqdefault.jpg",
+            "views": "78 754",
+            "likes": "2 595",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
                 "#Shorts"
             ],
-            "description": "LISTEN TO \"LEVEL 5\" NOW: KingGizzard.lnk.to/level5",
-            "channel_title": "King Gizzard And The Lizard Wizard"
+            "description": "Business Enquiries: maimaiincpg@gmail.com",
+            "channel_title": "Tonton Malele"
+        },
+        {
+            "title": "Dune: Part Three | Official Trailer",
+            "video_url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
+            "thumbnail": "https://i.ytimg.com/vi/NdvqHc56lE0/hqdefault.jpg",
+            "views": "7 454 123",
+            "likes": "294 675",
+            "hashtags": [
+                "#Action",
+                "#AnyaTaylor-Joy",
+                "#BrianKVaughan",
+                "#CharlotteRampling",
+                "#ComingSoon",
+                "#DenisVilleneuve",
+                "#Dune",
+                "#DuneMessiah"
+            ],
+            "description": "“Forgive me for all I’ve done” Experience the epic conclusion. Dune: Part Three only in theaters and IMAX December 18. #DuneMovie#FilmedforIMAX",
+            "channel_title": "Warner Bros."
+        },
+        {
+            "title": "My Best Meccha Chameleon Strategy Yet",
+            "video_url": "https://www.youtube.com/watch?v=6xW45Y6SxLI",
+            "thumbnail": "https://i.ytimg.com/vi/6xW45Y6SxLI/hqdefault.jpg",
+            "views": "2 163 039",
+            "likes": "120 785",
+            "hashtags": [
+                "#smii7y",
+                "#smii7yplus",
+                "#smii7y+",
+                "#smii7yplus",
+                "#mecchachameleon",
+                "#mecchachameleongame",
+                "#mecchachameleonfunnymoments",
+                "#mecchachameleongameplay"
+            ],
+            "description": "When in doubt, paint “That Ain’t Me” on yourself.",
+            "channel_title": "SMii7Y"
+        },
+        {
+            "title": "Show Me Love - Mal Meninga Kuri (KTP)",
+            "video_url": "https://www.youtube.com/watch?v=RMnIj8Wajo8",
+            "thumbnail": "https://i.ytimg.com/vi/RMnIj8Wajo8/hqdefault.jpg",
+            "views": "23 756",
+            "likes": "1 729",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "(Rec: Kambi Tracks Studio. Prod: SnaZii CruZe) -2026",
+            "channel_title": "Mal Meninga Kuri "
         },
         {
             "title": "Avatar Aang: The Last Airbender | Official Movie Trailer | Paramount+ | Avatar",
             "video_url": "https://www.youtube.com/watch?v=7b20GRFZBFE",
             "thumbnail": "https://i.ytimg.com/vi/7b20GRFZBFE/hqdefault.jpg",
-            "views": "2 704 720",
-            "likes": "151 600",
+            "views": "4 125 543",
+            "likes": "188 342",
             "hashtags": [
                 "#Avatar",
                 "#Avatar:TheLastAirbender",
@@ -35,58 +87,11 @@
             "channel_title": "Avatar Legends"
         },
         {
-            "title": "New Rules, New Hero, New Rivals! | Marvel Rivals Season 9 Reveal Stream",
-            "video_url": "https://www.youtube.com/watch?v=L5y9R-7hHOw",
-            "thumbnail": "https://i.ytimg.com/vi/L5y9R-7hHOw/hqdefault.jpg",
-            "views": "1 137 231",
-            "likes": "46 231",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "New rules. New hero. New Rivals. Watch the Marvel Rivals Season 9 Reveal Stream live and see what’s coming next!",
-            "channel_title": "Marvel Rivals"
-        },
-        {
-            "title": "Em I Orait - Tonton Malele (feat. Jarahn & Rich Antony)",
-            "video_url": "https://www.youtube.com/watch?v=WbkQp_XEJbw",
-            "thumbnail": "https://i.ytimg.com/vi/WbkQp_XEJbw/hqdefault.jpg",
-            "views": "69 763",
-            "likes": "2 510",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "Business Enquiries: maimaiincpg@gmail.com",
-            "channel_title": "Tonton Malele"
-        },
-        {
-            "title": "Stray Kids \"THIS & THAT\" Trailer",
-            "video_url": "https://www.youtube.com/watch?v=hQUVIT8m-c0",
-            "thumbnail": "https://i.ytimg.com/vi/hQUVIT8m-c0/hqdefault.jpg",
-            "views": "1 695 287",
-            "likes": "347 921",
-            "hashtags": [
-                "#StrayKids",
-                "#스트레이키즈",
-                "#SKZ",
-                "#스키즈",
-                "#방찬",
-                "#BANGCHAN",
-                "#리노",
-                "#LEEKNOW"
-            ],
-            "description": "Stray Kids(스트레이 키즈) \"THIS & THAT\" Trailer",
-            "channel_title": "JYP Entertainment"
-        },
-        {
             "title": "Something Won't Let You Leave...",
             "video_url": "https://www.youtube.com/watch?v=8utcF9Azbxo",
             "thumbnail": "https://i.ytimg.com/vi/8utcF9Azbxo/hqdefault.jpg",
-            "views": "668 264",
-            "likes": "140 632",
+            "views": "4 774 643",
+            "likes": "325 412",
             "hashtags": [
                 "#minecraft",
                 "#minecrafthorror",
@@ -97,64 +102,72 @@
             "channel_title": "ThatMob"
         },
         {
-            "title": "Tavile",
-            "video_url": "https://www.youtube.com/watch?v=Qc_k5i7637I",
-            "thumbnail": "https://i.ytimg.com/vi/Qc_k5i7637I/hqdefault.jpg",
-            "views": "64 523",
-            "likes": "2 562",
+            "title": "Sean Rii, Jenieo, Sharzkii - Tavile (Visualiser)",
+            "video_url": "https://www.youtube.com/watch?v=N4jtgcOIzVA",
+            "thumbnail": "https://i.ytimg.com/vi/N4jtgcOIzVA/hqdefault.jpg",
+            "views": "137 845",
+            "likes": "4 776",
             "hashtags": [
                 "#SeanRii",
-                "#Jenieo",
-                "#Sharzkii",
-                "#Tavile"
+                "#SolomonIslands",
+                "#reggaemusic",
+                "#Pacificreggae",
+                "#islandreggae",
+                "#rootsreggae",
+                "#reggae2024",
+                "#islandvibes"
             ],
-            "description": "Provided to YouTube by ACTS Music Group",
-            "channel_title": "Sean Rii - Topic"
+            "description": "Tavile - Sean Rii, Sharzkii & Jenieo",
+            "channel_title": "SeanRiiVEVO"
         },
         {
-            "title": "Apex Legends x Cyberpunk Event Trailer",
-            "video_url": "https://www.youtube.com/watch?v=5_6GRFK13vc",
-            "thumbnail": "https://i.ytimg.com/vi/5_6GRFK13vc/hqdefault.jpg",
-            "views": "627 599",
-            "likes": "24 990",
+            "title": "Dune Part 3 FULL TRAILER ANALYSIS | Quinn's Ideas",
+            "video_url": "https://www.youtube.com/watch?v=DUsJ8_2RmrQ",
+            "thumbnail": "https://i.ytimg.com/vi/DUsJ8_2RmrQ/hqdefault.jpg",
+            "views": "72 837",
+            "likes": "7 045",
             "hashtags": [
-                "#apexlegends",
-                "#apexlegendsseason29",
-                "#apexlegendscyberpunk",
-                "#cyberpunkevent",
-                "#apexlegendswildcard",
-                "#apexlegendsoverclocked",
-                "#apexlegendss29",
-                "#apexs29"
+                "#SciFi",
+                "#ScienceFiction",
+                "#Books",
+                "#Lore",
+                "#Explained"
             ],
-            "description": "Welcome to the Apex Legends x Cyberpunk Event, where the neon lights of E-District beckon in Wildcard and Cyberware floods the streets. But be careful: reports of Cyberpsychosis are on the rise. Hunt ...",
-            "channel_title": "Apex Legends"
+            "description": "The full trailer is here!!",
+            "channel_title": "Quinn's Ideas"
         },
         {
-            "title": "The Most Annoying Rage Game In A While... [Fall Again]",
-            "video_url": "https://www.youtube.com/watch?v=MVD0xhgRdEc",
-            "thumbnail": "https://i.ytimg.com/vi/MVD0xhgRdEc/hqdefault.jpg",
-            "views": "666 851",
-            "likes": "16 874",
+            "title": "Meccha Chameleon - These Spots Shouldn't Work... But They Do",
+            "video_url": "https://www.youtube.com/watch?v=caoa9lHg7aY",
+            "thumbnail": "https://i.ytimg.com/vi/caoa9lHg7aY/hqdefault.jpg",
+            "views": "375 767",
+            "likes": "21 897",
             "hashtags": [
-                "#joebartolozzi"
+                "#FunnyMoments",
+                "#Montagevideogames",
+                "#gaming",
+                "#Vanoss",
+                "#VanossGaming",
+                "#Gameplay",
+                "#Secret",
+                "#Puncake"
             ],
-            "description": "TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% OFF AND FREE SHIPPING: https://gamersupps.gg/bart",
-            "channel_title": "Joe Bart Games"
+            "description": "Outro Song: https://www.youtube.com/watch?v=HRPDp9jUNS8",
+            "channel_title": "VanossGaming"
         },
         {
-            "title": "Show Me Love - Mal Meninga Kuri (KTP)",
-            "video_url": "https://www.youtube.com/watch?v=RMnIj8Wajo8",
-            "thumbnail": "https://i.ytimg.com/vi/RMnIj8Wajo8/hqdefault.jpg",
-            "views": "19 774",
-            "likes": "1 668",
+            "title": "Rylo Rodriguez - Eliza (Bless Me Up) (Official Music Video)",
+            "video_url": "https://www.youtube.com/watch?v=YYI5bWq3gnU",
+            "thumbnail": "https://i.ytimg.com/vi/YYI5bWq3gnU/hqdefault.jpg",
+            "views": "84 969",
+            "likes": "6 018",
             "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
+                "#RyloRodriguez",
+                "#GlassWindowEntertainment/MotownRecords",
+                "#HipHop"
             ],
-            "description": "(Rec: Kambi Tracks Studio. Prod: SnaZii CruZe) -2026",
-            "channel_title": "Mal Meninga Kuri "
+            "description": "Music video by Rylo Rodriguez performing Eliza (Bless Me Up).© 2026 Glass Window Entertainment, LLC & UMG Recordings, Inc.",
+            "channel_title": "RyloRodriguezVEVO"
         }
     ]
 }
