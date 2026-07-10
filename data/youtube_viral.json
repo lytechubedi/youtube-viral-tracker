@@ -1,26 +1,60 @@
 {
-    "last_updated": "09/07/2026 à 18:26",
+    "last_updated": "10/07/2026 à 11:22",
     "videos": [
         {
-            "title": "Em I Orait - Tonton Malele (feat. Jarahn & Rich Antony)",
-            "video_url": "https://www.youtube.com/watch?v=WbkQp_XEJbw",
-            "thumbnail": "https://i.ytimg.com/vi/WbkQp_XEJbw/hqdefault.jpg",
-            "views": "82 800",
-            "likes": "2 630",
+            "title": "One Two",
+            "video_url": "https://www.youtube.com/watch?v=ESORouDblNg",
+            "thumbnail": "https://i.ytimg.com/vi/ESORouDblNg/hqdefault.jpg",
+            "views": "135 080",
+            "likes": "8 502",
+            "hashtags": [
+                "#Future",
+                "#フューチャー",
+                "#TheRealMe",
+                "#OneTwo"
+            ],
+            "description": "Provided to YouTube by Epic",
+            "channel_title": "Future - Topic"
+        },
+        {
+            "title": "GODZILLA MINUS ZERO | Official Teaser",
+            "video_url": "https://www.youtube.com/watch?v=Xmy-Z3dHMd8",
+            "thumbnail": "https://i.ytimg.com/vi/Xmy-Z3dHMd8/hqdefault.jpg",
+            "views": "1 389 331",
+            "likes": "65 126",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
                 "#Shorts"
             ],
-            "description": "Business Enquiries: maimaiincpg@gmail.com",
-            "channel_title": "Tonton Malele"
+            "description": "Returning to zero is not an option.",
+            "channel_title": "GODZILLA OFFICIAL by TOHO"
+        },
+        {
+            "title": "FullyChop - Vultures (Official Music Video)",
+            "video_url": "https://www.youtube.com/watch?v=FdzPyCJpl_A",
+            "thumbnail": "https://i.ytimg.com/vi/FdzPyCJpl_A/hqdefault.jpg",
+            "views": "142 967",
+            "likes": "11 328",
+            "hashtags": [
+                "#FullyChop",
+                "#FullyChop",
+                "#FullyChopMusic",
+                "#FullyChopNun",
+                "#ChicagoRap",
+                "#ChicagoDrill",
+                "#FullyChop15yearoldartist",
+                "#fullychopnewmusic"
+            ],
+            "description": "FullyChop - Vultures (Official Music Video)",
+            "channel_title": "FullyChop"
         },
         {
             "title": "Dune: Part Three | Official Trailer",
             "video_url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
             "thumbnail": "https://i.ytimg.com/vi/NdvqHc56lE0/hqdefault.jpg",
-            "views": "9 567 926",
-            "likes": "335 090",
+            "views": "12 724 404",
+            "likes": "372 576",
             "hashtags": [
                 "#Action",
                 "#AnyaTaylor-Joy",
@@ -35,117 +69,95 @@
             "channel_title": "Warner Bros."
         },
         {
-            "title": "Show Me Love - Mal Meninga Kuri (KTP)",
-            "video_url": "https://www.youtube.com/watch?v=RMnIj8Wajo8",
-            "thumbnail": "https://i.ytimg.com/vi/RMnIj8Wajo8/hqdefault.jpg",
-            "views": "25 268",
-            "likes": "1 736",
+            "title": "Animal Hospital…",
+            "video_url": "https://www.youtube.com/watch?v=PYy17045AmE",
+            "thumbnail": "https://i.ytimg.com/vi/PYy17045AmE/hqdefault.jpg",
+            "views": "573 297",
+            "likes": "24 751",
             "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "(Rec: Kambi Tracks Studio. Prod: SnaZii CruZe) -2026",
-            "channel_title": "Mal Meninga Kuri "
-        },
-        {
-            "title": "GODZILLA MINUS ZERO | Official Teaser",
-            "video_url": "https://www.youtube.com/watch?v=Xmy-Z3dHMd8",
-            "thumbnail": "https://i.ytimg.com/vi/Xmy-Z3dHMd8/hqdefault.jpg",
-            "views": "446 923",
-            "likes": "41 341",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "Returning to zero is not an option.",
-            "channel_title": "GODZILLA OFFICIAL by TOHO"
-        },
-        {
-            "title": "My Best Meccha Chameleon Strategy Yet",
-            "video_url": "https://www.youtube.com/watch?v=6xW45Y6SxLI",
-            "thumbnail": "https://i.ytimg.com/vi/6xW45Y6SxLI/hqdefault.jpg",
-            "views": "2 628 965",
-            "likes": "139 430",
-            "hashtags": [
-                "#smii7y",
-                "#smii7yplus",
-                "#smii7y+",
-                "#smii7yplus",
-                "#mecchachameleon",
-                "#mecchachameleongame",
-                "#mecchachameleonfunnymoments",
-                "#mecchachameleongameplay"
-            ],
-            "description": "When in doubt, paint “That Ain’t Me” on yourself.",
-            "channel_title": "SMii7Y"
-        },
-        {
-            "title": "Sean Rii, Jenieo, Sharzkii - Tavile (Visualiser)",
-            "video_url": "https://www.youtube.com/watch?v=N4jtgcOIzVA",
-            "thumbnail": "https://i.ytimg.com/vi/N4jtgcOIzVA/hqdefault.jpg",
-            "views": "141 416",
-            "likes": "4 821",
-            "hashtags": [
-                "#SeanRii",
-                "#SolomonIslands",
-                "#reggaemusic",
-                "#Pacificreggae",
-                "#islandreggae",
-                "#rootsreggae",
-                "#reggae2024",
-                "#islandvibes"
-            ],
-            "description": "Tavile - Sean Rii, Sharzkii & Jenieo",
-            "channel_title": "SeanRiiVEVO"
-        },
-        {
-            "title": "Palworld 1.0 Official Launch Trailer",
-            "video_url": "https://www.youtube.com/watch?v=1fpGg9wNM9A",
-            "thumbnail": "https://i.ytimg.com/vi/1fpGg9wNM9A/hqdefault.jpg",
-            "views": "201 354",
-            "likes": "28 529",
-            "hashtags": [
-                "#パールワールド",
-                "#パルわーるど",
-                "#paluworld",
-                "#paruworld",
-                "#パワーワールド",
-                "#パラワールド",
-                "#バルワールド",
-                "#palwold"
-            ],
-            "description": "🖤Steam:",
-            "channel_title": "Pocketpair Palworld"
-        },
-        {
-            "title": "Something Won't Let You Leave...",
-            "video_url": "https://www.youtube.com/watch?v=8utcF9Azbxo",
-            "thumbnail": "https://i.ytimg.com/vi/8utcF9Azbxo/hqdefault.jpg",
-            "views": "5 580 164",
-            "likes": "356 439",
-            "hashtags": [
-                "#minecraft",
-                "#minecrafthorror",
+                "#gaming",
+                "#caseoh",
+                "#caseohgames",
+                "#case",
+                "#funny",
+                "#streamer",
                 "#horror",
-                "#minecraftarg"
+                "#horrorgaming"
             ],
-            "description": "Something Won't Let You Leave...",
-            "channel_title": "ThatMob"
+            "description": "CaseOh X Starforge  https://starforgepc.com/CaseOh ",
+            "channel_title": "CaseOh"
         },
         {
-            "title": "MAS PERRO",
-            "video_url": "https://www.youtube.com/watch?v=MehA1EXYmrc",
-            "thumbnail": "https://i.ytimg.com/vi/MehA1EXYmrc/hqdefault.jpg",
-            "views": "32 204",
-            "likes": "824",
+            "title": "YEONJUN (연준) 'Ice Cream' Official MV",
+            "video_url": "https://www.youtube.com/watch?v=ihvuwqlGHXs",
+            "thumbnail": "https://i.ytimg.com/vi/ihvuwqlGHXs/hqdefault.jpg",
+            "views": "478 808",
+            "likes": "115 024",
             "hashtags": [
-                "#RaúlBeltran",
-                "#MASPERRO"
+                "#HYBE",
+                "#HYBELABELS",
+                "#하이브",
+                "#하이브레이블즈"
             ],
-            "description": "Provided to YouTube by AOP",
-            "channel_title": "Raúl Beltran - Topic"
+            "description": "YEONJUN (연준) 'Ice Cream' Official MV",
+            "channel_title": "HYBE LABELS"
+        },
+        {
+            "title": "SPIDER-MAN BRAND NEW DAY New Trailer Easter Eggs + Concept Art Details!",
+            "video_url": "https://www.youtube.com/watch?v=RJ54QW7ujxA",
+            "thumbnail": "https://i.ytimg.com/vi/RJ54QW7ujxA/hqdefault.jpg",
+            "views": "195 862",
+            "likes": "7 029",
+            "hashtags": [
+                "#newrockstars",
+                "#newrockstarsyoutube",
+                "#youtubenewrockstars",
+                "#spider-man",
+                "#brandnewday",
+                "#brandnewdaytrailer",
+                "#spider-mantrailer",
+                "#hulk"
+            ],
+            "description": "New Promos for Spider-Man Brand New Day reveals that the Punisher fights Hulk? Is he dumb? Sign up here and check out @official.freecash: ",
+            "channel_title": "New Rockstars"
+        },
+        {
+            "title": "BLACK OPS and BLACK OPS 2 on PS5 feels surreal",
+            "video_url": "https://www.youtube.com/watch?v=hshJR2eJvfQ",
+            "thumbnail": "https://i.ytimg.com/vi/hshJR2eJvfQ/hqdefault.jpg",
+            "views": "590 176",
+            "likes": "25 834",
+            "hashtags": [
+                "#FaZe",
+                "#Jev",
+                "#FaZeClan",
+                "#FaZeJev",
+                "#FaZeJev",
+                "#BLACKOPS",
+                "#BLACKOPS2",
+                "#BLACKOPSGAMEPLAY"
+            ],
+            "description": "Enjoy!",
+            "channel_title": "JEV"
+        },
+        {
+            "title": "Riley Green - Think As You Drunk (Official Video)",
+            "video_url": "https://www.youtube.com/watch?v=5SCJM6aYsK0",
+            "thumbnail": "https://i.ytimg.com/vi/5SCJM6aYsK0/hqdefault.jpg",
+            "views": "72 130",
+            "likes": "4 484",
+            "hashtags": [
+                "#RileyGreen",
+                "#rileygreenvideos",
+                "#worstwayrileygreen",
+                "#don'tmindifdo",
+                "#rileygreenchangemymind",
+                "#countrysong",
+                "#changemymindrileygreen",
+                "#rileygreenworstway"
+            ],
+            "description": "The Official Music Video for \"Think As You Drunk\" by Riley Green. Listen here: https://rileygreen.ffm.to/thinkasyoudrunk.OYD",
+            "channel_title": "RileyGreenVEVO"
         }
     ]
 }
