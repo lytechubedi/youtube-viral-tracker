@@ -1,12 +1,64 @@
 {
-    "last_updated": "10/07/2026 à 18:08",
+    "last_updated": "11/07/2026 à 07:22",
     "videos": [
+        {
+            "title": "NBA YoungBoy - What Da What ?",
+            "video_url": "https://www.youtube.com/watch?v=rsk5I9rDVFY",
+            "thumbnail": "https://i.ytimg.com/vi/rsk5I9rDVFY/hqdefault.jpg",
+            "views": "166 819",
+            "likes": "25 456",
+            "hashtags": [
+                "#YoungBoyNeverBrokeAgain",
+                "#NBAYoungBoy",
+                "#YoungBoyQuandoRondo",
+                "#YoungBoyLeak",
+                "#MakeNoSenseYoungBoy",
+                "#YoungboyLostMotives",
+                "#YoungBoyNBAMusicVideo",
+                "#YoungBoyNeverBrokeAgainTOP"
+            ],
+            "description": "YoungBoy Never Broke Again –  ",
+            "channel_title": "YoungBoy Never Broke Again"
+        },
+        {
+            "title": "GODZILLA MINUS ZERO | Official Teaser",
+            "video_url": "https://www.youtube.com/watch?v=Xmy-Z3dHMd8",
+            "thumbnail": "https://i.ytimg.com/vi/Xmy-Z3dHMd8/hqdefault.jpg",
+            "views": "1 739 570",
+            "likes": "73 378",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "Returning to zero is not an option.",
+            "channel_title": "GODZILLA OFFICIAL by TOHO"
+        },
+        {
+            "title": "These Meccha Chameleon spots are out of control…",
+            "video_url": "https://www.youtube.com/watch?v=3UwSkQLcyKw",
+            "thumbnail": "https://i.ytimg.com/vi/3UwSkQLcyKw/hqdefault.jpg",
+            "views": "1 312 392",
+            "likes": "70 684",
+            "hashtags": [
+                "#smii7y",
+                "#smii7yplus",
+                "#smii7y+",
+                "#smii7yplus",
+                "#mecchachameleon",
+                "#mecchachameleongame",
+                "#mecchachameleonfunnymoments",
+                "#mecchachameleongameplay"
+            ],
+            "description": "We tried to play some CS2 maps in Meccha Chameleon. It was hilarious.",
+            "channel_title": "SMii7Yplus"
+        },
         {
             "title": "One Two",
             "video_url": "https://www.youtube.com/watch?v=ESORouDblNg",
             "thumbnail": "https://i.ytimg.com/vi/ESORouDblNg/hqdefault.jpg",
-            "views": "352 490",
-            "likes": "15 266",
+            "views": "626 005",
+            "likes": "21 346",
             "hashtags": [
                 "#Future",
                 "#フューチャー",
@@ -17,63 +69,58 @@
             "channel_title": "Future - Topic"
         },
         {
-            "title": "GODZILLA MINUS ZERO | Official Teaser",
-            "video_url": "https://www.youtube.com/watch?v=Xmy-Z3dHMd8",
-            "thumbnail": "https://i.ytimg.com/vi/Xmy-Z3dHMd8/hqdefault.jpg",
-            "views": "1 538 874",
-            "likes": "68 811",
+            "title": "SPIDER-MAN: BRAND NEW DAY \"Hulk Smash Spidey\" Trailer (NEW 2026)",
+            "video_url": "https://www.youtube.com/watch?v=153uJDL4Y7s",
+            "thumbnail": "https://i.ytimg.com/vi/153uJDL4Y7s/hqdefault.jpg",
+            "views": "294 496",
+            "likes": "8 634",
+            "hashtags": [
+                "#joblo",
+                "#joblomovienetwork",
+                "#joblotrailers",
+                "#movietrailers",
+                "#newmovietrailers",
+                "#officialtrailer",
+                "#upcomingmovies",
+                "#newmovies2026"
+            ],
+            "description": "The world may have forgotten Peter Parker, but he hasn't forgotten them. ",
+            "channel_title": "JoBlo Movie Network"
+        },
+        {
+            "title": "EST Gee - CALL SPITTA (Official Video)",
+            "video_url": "https://www.youtube.com/watch?v=3mOTUKIzkXE",
+            "thumbnail": "https://i.ytimg.com/vi/3mOTUKIzkXE/hqdefault.jpg",
+            "views": "122 636",
+            "likes": "7 273",
+            "hashtags": [
+                "#ESTGee",
+                "#WarlikeLLC(ESTGee)PS",
+                "#HipHop"
+            ],
+            "description": "Stream 'CALL SPITTA' now: https://ESTGee.lnk.to/CALLSPITTA",
+            "channel_title": "ESTGeeVEVO"
+        },
+        {
+            "title": "SPIDER-MAN BRAND NEW DAY TRAILER: Spider-Man’s Hulkbuster!",
+            "video_url": "https://www.youtube.com/watch?v=1JdemHlOyN4",
+            "thumbnail": "https://i.ytimg.com/vi/1JdemHlOyN4/hqdefault.jpg",
+            "views": "87 462",
+            "likes": "3 250",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
                 "#Shorts"
             ],
-            "description": "Returning to zero is not an option.",
-            "channel_title": "GODZILLA OFFICIAL by TOHO"
-        },
-        {
-            "title": "FullyChop - Vultures (Official Music Video)",
-            "video_url": "https://www.youtube.com/watch?v=FdzPyCJpl_A",
-            "thumbnail": "https://i.ytimg.com/vi/FdzPyCJpl_A/hqdefault.jpg",
-            "views": "168 274",
-            "likes": "12 738",
-            "hashtags": [
-                "#FullyChop",
-                "#FullyChop",
-                "#FullyChopMusic",
-                "#FullyChopNun",
-                "#ChicagoRap",
-                "#ChicagoDrill",
-                "#FullyChop15yearoldartist",
-                "#fullychopnewmusic"
-            ],
-            "description": "FullyChop - Vultures (Official Music Video)",
-            "channel_title": "FullyChop"
-        },
-        {
-            "title": "Dune: Part Three | Official Trailer",
-            "video_url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
-            "thumbnail": "https://i.ytimg.com/vi/NdvqHc56lE0/hqdefault.jpg",
-            "views": "13 399 237",
-            "likes": "380 400",
-            "hashtags": [
-                "#Action",
-                "#AnyaTaylor-Joy",
-                "#BrianKVaughan",
-                "#CharlotteRampling",
-                "#ComingSoon",
-                "#DenisVilleneuve",
-                "#Dune",
-                "#DuneMessiah"
-            ],
-            "description": "“Forgive me for all I’ve done” Experience the epic conclusion. Dune: Part Three only in theaters and IMAX December 18. #DuneMovie#FilmedforIMAX",
-            "channel_title": "Warner Bros."
+            "description": "Spider-Man Brand New Day Trailer. Spider-Man Makes A New Hulkbuster. Spider-Man vs Hulk, Grey Hulk Deleted Scenes, Spider-Man New Powers, Sadie Sink Jean Grey X-Men & Avengers Doomsday Comic Con Trail...",
+            "channel_title": "Emergency Awesome"
         },
         {
             "title": "Animal Hospital…",
             "video_url": "https://www.youtube.com/watch?v=PYy17045AmE",
             "thumbnail": "https://i.ytimg.com/vi/PYy17045AmE/hqdefault.jpg",
-            "views": "763 317",
-            "likes": "31 536",
+            "views": "1 175 687",
+            "likes": "42 203",
             "hashtags": [
                 "#gaming",
                 "#caseoh",
@@ -88,74 +135,18 @@
             "channel_title": "CaseOh"
         },
         {
-            "title": "Madrugada",
-            "video_url": "https://www.youtube.com/watch?v=IaFvOeX5CKo",
-            "thumbnail": "https://i.ytimg.com/vi/IaFvOeX5CKo/hqdefault.jpg",
-            "views": "54 549",
-            "likes": "1 346",
+            "title": "Skippa - Glocks and Chips (Official Music Video)",
+            "video_url": "https://www.youtube.com/watch?v=wTtGd0gE3Ag",
+            "thumbnail": "https://i.ytimg.com/vi/wTtGd0gE3Ag/hqdefault.jpg",
+            "views": "248 917",
+            "likes": "25 932",
             "hashtags": [
-                "#LuisRConriquez",
-                "#Calle24",
-                "#Chuyin",
-                "#Jorsshh",
-                "#MuchachoAlegre",
-                "#Madrugada"
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
             ],
-            "description": "Provided to YouTube by K Music/Sony Music Latin",
-            "channel_title": "Luis R Conriquez - Topic"
-        },
-        {
-            "title": "SPIDER-MAN BRAND NEW DAY New Trailer Easter Eggs + Concept Art Details!",
-            "video_url": "https://www.youtube.com/watch?v=RJ54QW7ujxA",
-            "thumbnail": "https://i.ytimg.com/vi/RJ54QW7ujxA/hqdefault.jpg",
-            "views": "227 401",
-            "likes": "7 859",
-            "hashtags": [
-                "#newrockstars",
-                "#newrockstarsyoutube",
-                "#youtubenewrockstars",
-                "#spider-man",
-                "#brandnewday",
-                "#brandnewdaytrailer",
-                "#spider-mantrailer",
-                "#hulk"
-            ],
-            "description": "New Promos for Spider-Man Brand New Day reveals that the Punisher fights Hulk? Is he dumb? Sign up here and check out @official.freecash: ",
-            "channel_title": "New Rockstars"
-        },
-        {
-            "title": "BLACK OPS and BLACK OPS 2 on PS5 feels surreal",
-            "video_url": "https://www.youtube.com/watch?v=hshJR2eJvfQ",
-            "thumbnail": "https://i.ytimg.com/vi/hshJR2eJvfQ/hqdefault.jpg",
-            "views": "731 015",
-            "likes": "31 067",
-            "hashtags": [
-                "#FaZe",
-                "#Jev",
-                "#FaZeClan",
-                "#FaZeJev",
-                "#FaZeJev",
-                "#BLACKOPS",
-                "#BLACKOPS2",
-                "#BLACKOPSGAMEPLAY"
-            ],
-            "description": "Enjoy!",
-            "channel_title": "JEV"
-        },
-        {
-            "title": "YEONJUN (연준) 'Ice Cream' Official MV",
-            "video_url": "https://www.youtube.com/watch?v=ihvuwqlGHXs",
-            "thumbnail": "https://i.ytimg.com/vi/ihvuwqlGHXs/hqdefault.jpg",
-            "views": "796 017",
-            "likes": "152 777",
-            "hashtags": [
-                "#HYBE",
-                "#HYBELABELS",
-                "#하이브",
-                "#하이브레이블즈"
-            ],
-            "description": "YEONJUN (연준) 'Ice Cream' Official MV",
-            "channel_title": "HYBE LABELS"
+            "description": "Skippa Performing “Glocks and Chips” ",
+            "channel_title": "Skippa"
         }
     ]
 }
