@@ -1,12 +1,12 @@
 {
-    "last_updated": "23/07/2026 à 13:54",
+    "last_updated": "24/07/2026 à 02:34",
     "videos": [
         {
             "title": "KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2",
             "video_url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
             "thumbnail": "https://i.ytimg.com/vi/z7eGToy4MWk/hqdefault.jpg",
-            "views": "2 137 114",
-            "likes": "142 360",
+            "views": "3 242 643",
+            "likes": "159 786",
             "hashtags": [
                 "#HYBE",
                 "#HYBELABELS",
@@ -17,30 +17,129 @@
             "channel_title": "HYBE LABELS"
         },
         {
-            "title": "Clayface | Official Trailer",
-            "video_url": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
-            "thumbnail": "https://i.ytimg.com/vi/OGO4Mqvo3jI/hqdefault.jpg",
-            "views": "5 966 903",
-            "likes": "226 358",
+            "title": "Avatar: Seven Havens | Official Teaser | Paramount+ (SDCC 2026)",
+            "video_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+            "thumbnail": "https://i.ytimg.com/vi/RvksPficuOU/hqdefault.jpg",
+            "views": "1 107 496",
+            "likes": "88 662",
             "hashtags": [
-                "#2026",
-                "#Clayface",
-                "#ComingSoon",
-                "#DC",
-                "#DCComics",
-                "#DavidDencik",
-                "#EddieMarsan",
-                "#GothamCity"
+                "#Avatar",
+                "#Avatar:TheLastAirbender",
+                "#ATLA",
+                "#LegendofKorra",
+                "#Aang",
+                "#Katara",
+                "#Toph",
+                "#Sokka"
             ],
-            "description": "Meet the new face of Gotham. #ClayfaceMovie only in theaters October 23.",
-            "channel_title": "DC"
+            "description": "Avatar: Seven Havens premieres October 9 only on Paramount+.",
+            "channel_title": "Avatar Legends"
+        },
+        {
+            "title": "Black Ops 2 Zombies - Easter Egg Attempt, Steak Fail, and More! (Mob of the Dead)",
+            "video_url": "https://www.youtube.com/watch?v=gjDi9EO-kOQ",
+            "thumbnail": "https://i.ytimg.com/vi/gjDi9EO-kOQ/hqdefault.jpg",
+            "views": "379 993",
+            "likes": "28 090",
+            "hashtags": [
+                "#FunnyMoments",
+                "#Montagevideogames",
+                "#gaming",
+                "#Vanoss",
+                "#VanossGaming",
+                "#Gameplay",
+                "#Secret",
+                "#Puncake"
+            ],
+            "description": "Outro Song: https://youtu.be/HRPDp9jUNS8",
+            "channel_title": "VanossGaming"
+        },
+        {
+            "title": "ADÉLA - Ain’t In LA (Official Music Video)",
+            "video_url": "https://www.youtube.com/watch?v=0ijm2Xui5N8",
+            "thumbnail": "https://i.ytimg.com/vi/0ijm2Xui5N8/hqdefault.jpg",
+            "views": "300 378",
+            "likes": "54 594",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "listen to “Ain’t In La” out now: https://AdELA.lnk.to/AintInLA",
+            "channel_title": "ADÉLA"
+        },
+        {
+            "title": "RESIDENT EVIL – Official Trailer (4K)",
+            "video_url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+            "thumbnail": "https://i.ytimg.com/vi/mNd1gb19A-c/hqdefault.jpg",
+            "views": "3 838 701",
+            "likes": "226 252",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "𝙽𝚘 𝚜𝚠𝚎𝚊𝚝.",
+            "channel_title": "Sony Pictures Entertainment"
+        },
+        {
+            "title": "LETS DO THIS BABY",
+            "video_url": "https://www.youtube.com/watch?v=v67VmnSs4Fk",
+            "thumbnail": "https://i.ytimg.com/vi/v67VmnSs4Fk/hqdefault.jpg",
+            "views": "512 283",
+            "likes": "7 937",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "Get the Jynxzi charm HERE: https://subs.twitch.tv/jynxzi",
+            "channel_title": "Jynxzi"
+        },
+        {
+            "title": "Stray Kids \"THIS & THAT\" UNVEIL : TRACK \"After You\"",
+            "video_url": "https://www.youtube.com/watch?v=3FJRYHVQVDE",
+            "thumbnail": "https://i.ytimg.com/vi/3FJRYHVQVDE/hqdefault.jpg",
+            "views": "809 105",
+            "likes": "197 727",
+            "hashtags": [
+                "#StrayKids",
+                "#스트레이키즈",
+                "#SKZ",
+                "#스키즈",
+                "#방찬",
+                "#BANGCHAN",
+                "#리노",
+                "#LEEKNOW"
+            ],
+            "description": "Stray Kids(스트레이 키즈) \"THIS & THAT\" UNVEIL : TRACK \"After You\"",
+            "channel_title": "JYP Entertainment"
+        },
+        {
+            "title": "EA SPORTS FC 27 | Official Reveal Trailer",
+            "video_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+            "thumbnail": "https://i.ytimg.com/vi/MOclJJ7IpSY/hqdefault.jpg",
+            "views": "2 166 321",
+            "likes": "119 912",
+            "hashtags": [
+                "#fifa",
+                "#fifapackopening",
+                "#fifaeas",
+                "#EASPORTSFC",
+                "#FC27",
+                "#EAFC",
+                "#EAFCreleasedate",
+                "#FC27releasedate"
+            ],
+            "description": "Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600",
+            "channel_title": "EA SPORTS FC"
         },
         {
             "title": "Photomaly (FULL GAME)",
             "video_url": "https://www.youtube.com/watch?v=2qduYQ-VDGw",
             "thumbnail": "https://i.ytimg.com/vi/2qduYQ-VDGw/hqdefault.jpg",
-            "views": "408 315",
-            "likes": "15 366",
+            "views": "628 161",
+            "likes": "20 834",
             "hashtags": [
                 "#gaming",
                 "#caseoh",
@@ -55,110 +154,23 @@
             "channel_title": "CaseOh"
         },
         {
-            "title": "Kacey Musgraves - Mexico Honey (Official Music Video)",
-            "video_url": "https://www.youtube.com/watch?v=5aXZ0fjAiho",
-            "thumbnail": "https://i.ytimg.com/vi/5aXZ0fjAiho/hqdefault.jpg",
-            "views": "103 817",
-            "likes": "7 480",
+            "title": "aespa エスパ 'KISS N TELL' MV",
+            "video_url": "https://www.youtube.com/watch?v=inxzQt78lOk",
+            "thumbnail": "https://i.ytimg.com/vi/inxzQt78lOk/hqdefault.jpg",
+            "views": "923 167",
+            "likes": "166 735",
             "hashtags": [
-                "#KaceyMusgraves",
-                "#underexclusivelicensetoLostHighway",
-                "#Country"
+                "#aespa",
+                "#에스파",
+                "#æspa",
+                "#mv",
+                "#musicvideo",
+                "#뮤직비디오",
+                "#카리나",
+                "#지젤"
             ],
-            "description": "Listen to “Middle of Nowhere”, the new album, out now: https://KaceyMusgraves.lnk.to/MiddleofNowhere ",
-            "channel_title": "KaceyMusgravesVEVO"
-        },
-        {
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "video_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
-            "views": "45 388 636",
-            "likes": "2 337 563",
-            "hashtags": [
-                "#marvel",
-                "#comics"
-            ],
-            "description": "Doomsday arrives December 18th.",
-            "channel_title": "Marvel Entertainment"
-        },
-        {
-            "title": "MINECRAFT WONDERLAND",
-            "video_url": "https://www.youtube.com/watch?v=-swgjnYWt4g",
-            "thumbnail": "https://i.ytimg.com/vi/-swgjnYWt4g/hqdefault.jpg",
-            "views": "426 971",
-            "likes": "35 065",
-            "hashtags": [
-                "#Family",
-                "#friendly"
-            ],
-            "description": "Thanks to @Temprist for setting this up for me... i guess -_-",
-            "channel_title": "Flamingo"
-        },
-        {
-            "title": "Victoria Monét - Reach Out (Official Video)",
-            "video_url": "https://www.youtube.com/watch?v=h99lQg2zSl0",
-            "thumbnail": "https://i.ytimg.com/vi/h99lQg2zSl0/hqdefault.jpg",
-            "views": "187 681",
-            "likes": "22 720",
-            "hashtags": [
-                "#ReachOut",
-                "#VictoriaMonét",
-                "#Alright",
-                "#JaguarII",
-                "#Smoke",
-                "#LuckyDaye",
-                "#HowDoesItMakeYouFeel",
-                "#OnMyMama"
-            ],
-            "description": "Stream \"Reach Out\" Here: https://victoriamonet.lnk.to/ReachOut",
-            "channel_title": "VictoriaMonétVEVO"
-        },
-        {
-            "title": "What Everyone Missed with LOKI in the Avengers Doomsday Trailer!",
-            "video_url": "https://www.youtube.com/watch?v=AGOW1s9rZFc",
-            "thumbnail": "https://i.ytimg.com/vi/AGOW1s9rZFc/hqdefault.jpg",
-            "views": "236 407",
-            "likes": "9 527",
-            "hashtags": [
-                "#newrockstars",
-                "#newrockstarsyoutube",
-                "#youtubenewrockstars",
-                "#doomsday",
-                "#doomsdaytrailer",
-                "#doomsdaytrailerloki",
-                "#loki",
-                "#lokidoomsday"
-            ],
-            "description": "Is Steve Rogers actually Loki in disguise? What does Loki’s TVA ID Badge hiding? Sign up here and check out @official.freecash: ",
-            "channel_title": "New Rockstars"
-        },
-        {
-            "title": "🔴LIVE | UNRELEASED SPONGE BREAK | GIMMICK X HABIBI X LEMON | #BUNGULATE",
-            "video_url": "https://www.youtube.com/watch?v=RSOq17EL7Is",
-            "thumbnail": "https://i.ytimg.com/vi/RSOq17EL7Is/hqdefault.jpg",
-            "views": "491 692",
-            "likes": "7 368",
-            "hashtags": [
-                "#funny",
-                "#escapefromtarkov",
-                "#tarkov"
-            ],
-            "description": "",
-            "channel_title": "TheBurntPeanut"
-        },
-        {
-            "title": "Em i orait - Tonton Malele (feat. Jarahn & Rich Anthony) Official Music Video",
-            "video_url": "https://www.youtube.com/watch?v=591W58EnuTQ",
-            "thumbnail": "https://i.ytimg.com/vi/591W58EnuTQ/hqdefault.jpg",
-            "views": "200 002",
-            "likes": "5 916",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "",
-            "channel_title": "Tonton Malele"
+            "description": "aespa's 1st Japan mini album \"KISS N TELL\" is out!",
+            "channel_title": "SMTOWN"
         }
     ]
 }
