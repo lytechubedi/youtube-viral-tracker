@@ -1,12 +1,12 @@
 {
-    "last_updated": "12/08/2026 à 01:49",
+    "last_updated": "12/08/2026 à 13:05",
     "videos": [
         {
             "title": "Larry June & Jhené Aiko - California Dream (Official Video)",
             "video_url": "https://www.youtube.com/watch?v=ED7Fp3Cj0xY",
             "thumbnail": "https://i.ytimg.com/vi/ED7Fp3Cj0xY/hqdefault.jpg",
-            "views": "123 321",
-            "likes": "8 800",
+            "views": "306 263",
+            "likes": "16 587",
             "hashtags": [
                 "#larryjune",
                 "#freeminded",
@@ -24,8 +24,8 @@
             "title": "Verity | Official Trailer",
             "video_url": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
             "thumbnail": "https://i.ytimg.com/vi/xdPMKhjMSFs/hqdefault.jpg",
-            "views": "2 093 689",
-            "likes": "6 306",
+            "views": "3 035 933",
+            "likes": "9 369",
             "hashtags": [
                 "#MGM",
                 "#MGMStudios",
@@ -40,40 +40,91 @@
             "channel_title": "Amazon MGM Studios"
         },
         {
-            "title": "The August 11, 2026 Derecho Coverage, As It Happened...",
-            "video_url": "https://www.youtube.com/watch?v=fIZvdS6dYt8",
-            "thumbnail": "https://i.ytimg.com/vi/fIZvdS6dYt8/hqdefault.jpg",
-            "views": "1 348 218",
-            "likes": "30 448",
+            "title": "MINECRAFT HARDCORE ALL BOSSES DAY 5🍄🔨🧟‍♂️ft. KaiCenat (Part 2)",
+            "video_url": "https://www.youtube.com/watch?v=-F-XHYgxy9A",
+            "thumbnail": "https://i.ytimg.com/vi/-F-XHYgxy9A/hqdefault.jpg",
+            "views": "6 899 850",
+            "likes": "113 399",
+            "hashtags": [
+                "#ishowspeed"
+            ],
+            "description": "tts donations here/ https://streamlabs.com/ishowspeed",
+            "channel_title": "IShowSpeed"
+        },
+        {
+            "title": "KATSEYE - Animal (Celebrity Substitute Version)",
+            "video_url": "https://www.youtube.com/watch?v=UdoR4R_5El0",
+            "thumbnail": "https://i.ytimg.com/vi/UdoR4R_5El0/hqdefault.jpg",
+            "views": "623 900",
+            "likes": "62 471",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
                 "#Shorts"
             ],
-            "description": "📱 FREE WEATHERWISE RADAR APP:",
-            "channel_title": "Ryan Hall, Y'all"
+            "description": "KATSEYE and the students of PS 17 in Queens, New York City, take over the school’s cafeteria for “Animal” in this special new music video collaboration with Celebrity Substitute.",
+            "channel_title": "KATSEYE"
         },
         {
-            "title": "MARBELLA NIGHTS",
-            "video_url": "https://www.youtube.com/watch?v=PbDNg4DsXNI",
-            "thumbnail": "https://i.ytimg.com/vi/PbDNg4DsXNI/hqdefault.jpg",
-            "views": "163 540",
-            "likes": "1 801",
+            "title": "Phantom Blade Zero: 11-Minute Extended Gameplay Trailer",
+            "video_url": "https://www.youtube.com/watch?v=9W07UNNY0ms",
+            "thumbnail": "https://i.ytimg.com/vi/9W07UNNY0ms/hqdefault.jpg",
+            "views": "320 479",
+            "likes": "14 873",
             "hashtags": [
-                "#Farruko",
-                "#ファルッコ",
-                "#JuanMagán",
-                "#MARBELLANIGHTS"
+                "#Action",
+                "#PC",
+                "#PS5ProEnhanced",
+                "#PhantomBlade",
+                "#PhantomBladeZero",
+                "#PlayStation5",
+                "#S-Game",
+                "#UnrealEngine5"
             ],
-            "description": "Provided to YouTube by La 167 LLC/Sony Music Latin",
-            "channel_title": "Farruko - Topic"
+            "description": "In less than 24 hours, a brand-new 11-minute Phantom Blade Zero trailer will unveil a breathtaking display of Kungfupunk gameplay. Stay tuned!",
+            "channel_title": "IGN"
+        },
+        {
+            "title": "KAI & SPEED HARDCORE MINECRAFT MARATHON ⛏️🧱 BEATING ALL BOSSES | DAY 5 PART 1",
+            "video_url": "https://www.youtube.com/watch?v=ys7l2Rr9r1c",
+            "thumbnail": "https://i.ytimg.com/vi/ys7l2Rr9r1c/hqdefault.jpg",
+            "views": "2 645 688",
+            "likes": "32 866",
+            "hashtags": [
+                "#KaiCenat",
+                "#KaiCenatLive",
+                "#KaiCenatLivestream",
+                "#KaiLive",
+                "#KaiCenatFunny"
+            ],
+            "description": "FOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat",
+            "channel_title": "Kai Cenat Live"
+        },
+        {
+            "title": "Fabolous - Lorena Freestyle (Official Video)",
+            "video_url": "https://www.youtube.com/watch?v=Ogmh2guNzTM",
+            "thumbnail": "https://i.ytimg.com/vi/Ogmh2guNzTM/hqdefault.jpg",
+            "views": "93 041",
+            "likes": "10 284",
+            "hashtags": [
+                "#Fabolous",
+                "#Rap",
+                "#Hip",
+                "#Hop",
+                "#Music",
+                "#Video",
+                "#Loso",
+                "#Def"
+            ],
+            "description": "IG: @MyFabolousLife ",
+            "channel_title": "MyFabolousLife"
         },
         {
             "title": "Honest Trailers | Avatar Aang: The Last Airbender",
             "video_url": "https://www.youtube.com/watch?v=8aEP7zLn0HM",
             "thumbnail": "https://i.ytimg.com/vi/8aEP7zLn0HM/hqdefault.jpg",
-            "views": "117 980",
-            "likes": "7 410",
+            "views": "206 572",
+            "likes": "9 951",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
@@ -86,8 +137,8 @@
             "title": "A BEAUTIFUL STREAM",
             "video_url": "https://www.youtube.com/watch?v=dIw76C3-xYU",
             "thumbnail": "https://i.ytimg.com/vi/dIw76C3-xYU/hqdefault.jpg",
-            "views": "510 303",
-            "likes": "10 254",
+            "views": "787 330",
+            "likes": "11 524",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
@@ -100,8 +151,8 @@
             "title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
             "video_url": "https://www.youtube.com/watch?v=chl0R8C4NJ8",
             "thumbnail": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg",
-            "views": "708 021",
-            "likes": "128 524",
+            "views": "1 474 334",
+            "likes": "197 617",
             "hashtags": [
                 "#Hearts2Hearts",
                 "#하츠투하츠",
@@ -114,49 +165,6 @@
             ],
             "description": "Hearts2Hearts' 1st Japan Single \"ICONIC HEART\" is out! ",
             "channel_title": "SMTOWN"
-        },
-        {
-            "title": "Season 4: Heroes of Busan Official Trailer | Overwatch",
-            "video_url": "https://www.youtube.com/watch?v=DiIquLrEqC4",
-            "thumbnail": "https://i.ytimg.com/vi/DiIquLrEqC4/hqdefault.jpg",
-            "views": "493 759",
-            "likes": "24 339",
-            "hashtags": [
-                "#Overwatch2",
-                "#Overwatch"
-            ],
-            "description": "Let your teamwork do all the talking during Season 4: Heroes of Busan.",
-            "channel_title": "PlayOverwatch"
-        },
-        {
-            "title": "KAI & SPEED HARDCORE MINECRAFT MARATHON ⛏️🧱 BEATING ALL BOSSES | DAY 4 PART 2",
-            "video_url": "https://www.youtube.com/watch?v=aoGra6zw4fI",
-            "thumbnail": "https://i.ytimg.com/vi/aoGra6zw4fI/hqdefault.jpg",
-            "views": "2 236 915",
-            "likes": "29 177",
-            "hashtags": [
-                "#KaiCenat",
-                "#KaiCenatLive",
-                "#KaiCenatLivestream",
-                "#KaiLive",
-                "#KaiCenatFunny"
-            ],
-            "description": "FOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat",
-            "channel_title": "Kai Cenat Live"
-        },
-        {
-            "title": "KATSEYE - Animal (Celebrity Substitute Version)",
-            "video_url": "https://www.youtube.com/watch?v=UdoR4R_5El0",
-            "thumbnail": "https://i.ytimg.com/vi/UdoR4R_5El0/hqdefault.jpg",
-            "views": "109 778",
-            "likes": "27 441",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "KATSEYE and the students of PS 17 in Queens, New York City, take over the school’s cafeteria for “Animal” in this special new music video collaboration with Celebrity Substitute.",
-            "channel_title": "KATSEYE"
         }
     ]
 }
