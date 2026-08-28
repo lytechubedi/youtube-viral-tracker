@@ -1,31 +1,85 @@
 {
-    "last_updated": "28/08/2026 à 09:40",
+    "last_updated": "28/08/2026 à 21:43",
     "videos": [
         {
-            "title": "Stray Kids \"FARMING\" Video",
-            "video_url": "https://www.youtube.com/watch?v=6CqeGHXXioU",
-            "thumbnail": "https://i.ytimg.com/vi/6CqeGHXXioU/hqdefault.jpg",
-            "views": "2 457 599",
-            "likes": "387 297",
+            "title": "Rod Wave - I Am (Official Audio)",
+            "video_url": "https://www.youtube.com/watch?v=Qe6T4dSnWhI",
+            "thumbnail": "https://i.ytimg.com/vi/Qe6T4dSnWhI/hqdefault.jpg",
+            "views": "278 124",
+            "likes": "12 921",
             "hashtags": [
-                "#JYPEntertainment",
-                "#JYP",
-                "#StrayKids",
-                "#스트레이키즈",
-                "#SKZ",
-                "#스키즈",
-                "#방찬",
-                "#BANGCHAN"
+                "#rodwave",
+                "#ghettogospel",
+                "#kevingates",
+                "#soulfly",
+                "#soulflydeluxe",
+                "#tiktok",
+                "#kodakblack",
+                "#lildurk"
             ],
-            "description": "Stray Kids(스트레이 키즈) \"FARMING\" Video",
-            "channel_title": "Stray Kids"
+            "description": "Listen to \"Don't Look Down\": https://rod-wave.sng.to/dld",
+            "channel_title": "RodWave"
+        },
+        {
+            "title": "Marvel’s Wolverine - Game Features Trailer | PS5 Games",
+            "video_url": "https://www.youtube.com/watch?v=DlRoO6C1rSg",
+            "thumbnail": "https://i.ytimg.com/vi/DlRoO6C1rSg/hqdefault.jpg",
+            "views": "855 338",
+            "likes": "34 133",
+            "hashtags": [
+                "#PlayStation",
+                "#PS5",
+                "#videogames",
+                "#nextgen",
+                "#Sony",
+                "#Insomniac",
+                "#Logan",
+                "#Wolverine"
+            ],
+            "description": "Get a slice of the features coming to Marvel’s Wolverine with actor Liam McIntyre. Learn about the combat, story, world, and more that you can sink your claws into.",
+            "channel_title": "PlayStation"
+        },
+        {
+            "title": "GTA 6 (Grand Theft Auto 6) - Official Extended Gameplay",
+            "video_url": "https://www.youtube.com/watch?v=wSm9GTUttBs",
+            "thumbnail": "https://i.ytimg.com/vi/wSm9GTUttBs/hqdefault.jpg",
+            "views": "2 873 957",
+            "likes": "61 924",
+            "hashtags": [
+                "#ign",
+                "#GTA6",
+                "#GrandTheftAuto6",
+                "#GTA6Trailer",
+                "#GTA6Gameplay",
+                "#GrandTheftAutoVI",
+                "#grandtheftauto6",
+                "#grandtheftauto"
+            ],
+            "description": "Take a look at Extended Gameplay for GTA 6, the latest entry in the third-person open-world action-adventure Grand Theft Auto franchise developed by Rockstar Games. Players will return to a modern-day...",
+            "channel_title": "IGN"
+        },
+        {
+            "title": "AZ Chike - Look Like My Mama ft. Tyler, The Creator",
+            "video_url": "https://www.youtube.com/watch?v=87gO7HMUHeo",
+            "thumbnail": "https://i.ytimg.com/vi/87gO7HMUHeo/hqdefault.jpg",
+            "views": "361 718",
+            "likes": "39 931",
+            "hashtags": [
+                "##AzChike",
+                "##AzCult",
+                "##CULT",
+                "##Az",
+                "##WestCoast"
+            ],
+            "description": "Pre-Save \"No Rest For The Wicked\": https://azchike.lnk.to/norestforthewicked",
+            "channel_title": "Az Chike"
         },
         {
             "title": "Lanterns Episode 3 Trailer: Guy Gardner Green Lantern vs John Stewart Breakdown & Easter Eggs",
             "video_url": "https://www.youtube.com/watch?v=XvRZcoD6_eg",
             "thumbnail": "https://i.ytimg.com/vi/XvRZcoD6_eg/hqdefault.jpg",
-            "views": "402 055",
-            "likes": "4 880",
+            "views": "517 686",
+            "likes": "5 824",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
@@ -35,120 +89,61 @@
             "channel_title": "Emergency Awesome"
         },
         {
-            "title": "30 Minutes of GTA 6 Gameplay - Netflix Extended Reveal",
-            "video_url": "https://www.youtube.com/watch?v=iEfmtHoarXE",
-            "thumbnail": "https://i.ytimg.com/vi/iEfmtHoarXE/hqdefault.jpg",
-            "views": "1 440 831",
-            "likes": "23 844",
+            "title": "Everything in the GTA 6 Extended Look, Explained",
+            "video_url": "https://www.youtube.com/watch?v=4Z_4yqWGRjQ",
+            "thumbnail": "https://i.ytimg.com/vi/4Z_4yqWGRjQ/hqdefault.jpg",
+            "views": "1 128 753",
+            "likes": "35 150",
             "hashtags": [
+                "#gta5",
+                "#gtaonline",
                 "#gta6",
-                "#gtavi",
-                "#trailer",
-                "#gta6trailer",
-                "#gtavitrailer",
-                "#gameplay",
-                "#gameplay",
-                "#official"
+                "#grandtheftauto",
+                "#makingmoneygta",
+                "#getrichgta"
             ],
-            "description": "The Biggest Things We Learned from GTA 6 Reveal: https://www.youtube.com/watch?v=k7OJ4FFftM4",
-            "channel_title": "TmarTn2"
+            "description": "0:00 – Intro",
+            "channel_title": "TGG"
         },
         {
-            "title": "Savannah Dexter- Man Like You Ft. Who TF Is Justin Time? (Official Music Video)",
-            "video_url": "https://www.youtube.com/watch?v=lQf1YCfmT0k",
-            "thumbnail": "https://i.ytimg.com/vi/lQf1YCfmT0k/hqdefault.jpg",
-            "views": "33 595",
-            "likes": "5 148",
+            "title": "JENNIE - FALLEN ANGEL (Official Video)",
+            "video_url": "https://www.youtube.com/watch?v=s466YCiHfKw",
+            "thumbnail": "https://i.ytimg.com/vi/s466YCiHfKw/hqdefault.jpg",
+            "views": "7 083 646",
+            "likes": "703 083",
             "hashtags": [
-                "#savannahdexter",
-                "#whoTFIsJustinTime?",
-                "#savages",
-                "#redneckrave",
-                "#country",
-                "#pop",
-                "#countrypop",
-                "#couple"
+                "#JennieRubyJane",
+                "#JennieKim",
+                "#JENNIEMV",
+                "#JENNIESolo",
+                "#ZEN",
+                "#Ruby",
+                "#JENNIERuby",
+                "#Mantra"
             ],
-            "description": "Savannah Dexter - Man Like You Ft. Who TF Is Justin Time? (Official Music Video)",
-            "channel_title": "SAVANNAH DEXTER"
+            "description": "Official music video for “FALLEN ANGEL” by JENNIE",
+            "channel_title": "JennieRubyJaneVEVO"
         },
         {
-            "title": "This Hidden Detail in VISIONQUEST Broke My Brain!",
-            "video_url": "https://www.youtube.com/watch?v=R5PpVF7htHg",
-            "thumbnail": "https://i.ytimg.com/vi/R5PpVF7htHg/hqdefault.jpg",
-            "views": "191 021",
-            "likes": "3 814",
-            "hashtags": [
-                "#newrockstars",
-                "#newrockstarsyoutube",
-                "#youtubenewrockstars",
-                "#visionquest",
-                "#visionquesttrailer",
-                "#visionquesteasteregg",
-                "#visionquestbreakdown",
-                "#visionquestdetail"
-            ],
-            "description": "Let’s decode the hidden quantum computer code on Vision’s pinstripe vest in the VisionQuest trailer! Use my code NEWROCKSTARS to get up to 50% off your Hume Pod:",
-            "channel_title": "New Rockstars"
-        },
-        {
-            "title": "Grand Theft Auto VI: An Extended Look | Now Playing | Netflix",
-            "video_url": "https://www.youtube.com/watch?v=uphThaa97ig",
-            "thumbnail": "https://i.ytimg.com/vi/uphThaa97ig/hqdefault.jpg",
-            "views": "3 317 060",
-            "likes": "42 593",
-            "hashtags": [
-                "#AnExtendedLook",
-                "#GTA6",
-                "#GTA6Trailer3",
-                "#GTAVI",
-                "#GrandTheftAuto6",
-                "#GrandTheftAutoVI",
-                "#Jason",
-                "#Lucia"
-            ],
-            "description": "See the next evolution in the groundbreaking Grand Theft Auto series.",
-            "channel_title": "Netflix"
-        },
-        {
-            "title": "Superstar Pride - First Day Out (Official Video)",
-            "video_url": "https://www.youtube.com/watch?v=LVj7Zh90oLQ",
-            "thumbnail": "https://i.ytimg.com/vi/LVj7Zh90oLQ/hqdefault.jpg",
-            "views": "376 262",
-            "likes": "23 129",
+            "title": "Pokémon Tales: The Misadventures of Sirfetch’d & Pichu | Teaser Trailer",
+            "video_url": "https://www.youtube.com/watch?v=Ofl9vf0nXmw",
+            "thumbnail": "https://i.ytimg.com/vi/Ofl9vf0nXmw/hqdefault.jpg",
+            "views": "74 901",
+            "likes": "4 727",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
                 "#Shorts"
             ],
-            "description": "Superstar Pride - First Day Out (Official Video)",
-            "channel_title": "Superstar Pride"
-        },
-        {
-            "title": "REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg",
-            "video_url": "https://www.youtube.com/watch?v=om-lsGVdfL8",
-            "thumbnail": "https://i.ytimg.com/vi/om-lsGVdfL8/hqdefault.jpg",
-            "views": "961 798",
-            "likes": "26 080",
-            "hashtags": [
-                "#reaccionando",
-                "#gtavi",
-                "#gta6",
-                "#trailer",
-                "#exclusivo",
-                "#thegrefg",
-                "#grefg",
-                "#extendedlook"
-            ],
-            "description": "SUSCRÍBETE y me haces feliz!",
-            "channel_title": "TheGrefg"
+            "description": "Join our unlikely heroes, Sirfetch’d and Pichu, in their gallant quest to protect Pokémon across Galar! While their missions might rarely go as planned, their noble deeds forge their friendship as the...",
+            "channel_title": "The Official Pokémon YouTube channel"
         },
         {
             "title": "Thoughts on the GTA 6 Gameplay Reveal",
             "video_url": "https://www.youtube.com/watch?v=b-If5Nq0log",
             "thumbnail": "https://i.ytimg.com/vi/b-If5Nq0log/hqdefault.jpg",
-            "views": "2 532 633",
-            "likes": "55 906",
+            "views": "3 515 899",
+            "likes": "71 058",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
@@ -158,19 +153,18 @@
             "channel_title": "penguinz0"
         },
         {
-            "title": "vamp city",
-            "video_url": "https://www.youtube.com/watch?v=uxs8gVjP7xA",
-            "thumbnail": "https://i.ytimg.com/vi/uxs8gVjP7xA/hqdefault.jpg",
-            "views": "149 334",
-            "likes": "8 254",
+            "title": "Por Amarte Así",
+            "video_url": "https://www.youtube.com/watch?v=u8vLc0JlK9s",
+            "thumbnail": "https://i.ytimg.com/vi/u8vLc0JlK9s/hqdefault.jpg",
+            "views": "114 184",
+            "likes": "5 156",
             "hashtags": [
-                "#KenCarson",
-                "#OsamaSon",
-                "#xperiment-cartunez",
-                "#vampcity"
+                "#NatanaelCano",
+                "#NatanaelCano,Vol.1",
+                "#PorAmarteAsí"
             ],
-            "description": "Provided to YouTube by Universal Music Group",
-            "channel_title": "Ken Carson - Topic"
+            "description": "Provided to YouTube by Rancho Humilde/Sony Music Latin",
+            "channel_title": "Natanael Cano - Topic"
         }
     ]
 }
