@@ -1,12 +1,12 @@
 {
-    "last_updated": "02/10/2026 à 04:11",
+    "last_updated": "02/10/2026 à 17:30",
     "videos": [
         {
             "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
             "video_url": "https://www.youtube.com/watch?v=JdXdQsP2_9M",
             "thumbnail": "https://i.ytimg.com/vi/JdXdQsP2_9M/hqdefault.jpg",
-            "views": "124 693",
-            "likes": "17 402",
+            "views": "375 866",
+            "likes": "31 183",
             "hashtags": [
                 "##James1:17",
                 "##JesusIsKing",
@@ -22,8 +22,8 @@
             "title": "Marvel Television’s VisionQuest | Official Trailer",
             "video_url": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
             "thumbnail": "https://i.ytimg.com/vi/sXKnmgmbkoE/hqdefault.jpg",
-            "views": "5 250 066",
-            "likes": "130 892",
+            "views": "9 991 218",
+            "likes": "179 231",
             "hashtags": [
                 "#marvel",
                 "#comics"
@@ -32,72 +32,25 @@
             "channel_title": "Marvel Entertainment"
         },
         {
-            "title": "EP 1: ROOFTOPS, PENTHOUSES, AND URBAN LIVING",
-            "video_url": "https://www.youtube.com/watch?v=_h_pQ1-5iQg",
-            "thumbnail": "https://i.ytimg.com/vi/_h_pQ1-5iQg/hqdefault.jpg",
-            "views": "1 318 336",
-            "likes": "91 224",
+            "title": "🔴LIVE | GEARS OF WAR: E-DAY | INSANE DIFFICULTY MARATHON | HUTCH X CLOAKZY X NICKMERCS | #BUNGULATE",
+            "video_url": "https://www.youtube.com/watch?v=lAnHpUMqYWo",
+            "thumbnail": "https://i.ytimg.com/vi/lAnHpUMqYWo/hqdefault.jpg",
+            "views": "1 876 935",
+            "likes": "15 297",
             "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "In this episode, I discuss why I decided to start the Minecraft City, followed by an examination of the first building downtown and other key rooftop properties.",
-            "channel_title": "Mike Tomlin"
-        },
-        {
-            "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
-            "video_url": "https://www.youtube.com/watch?v=PVVKKwYeEQs",
-            "thumbnail": "https://i.ytimg.com/vi/PVVKKwYeEQs/hqdefault.jpg",
-            "views": "258 612",
-            "likes": "29 330",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "Music:",
-            "channel_title": "Romeo Santos"
-        },
-        {
-            "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
-            "video_url": "https://www.youtube.com/watch?v=nTOf1FIsBcs",
-            "thumbnail": "https://i.ytimg.com/vi/nTOf1FIsBcs/hqdefault.jpg",
-            "views": "2 110 455",
-            "likes": "34 057",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "Some things get better with age. ",
-            "channel_title": "Paramount Plus"
-        },
-        {
-            "title": "Don’t Drop The Cake…",
-            "video_url": "https://www.youtube.com/watch?v=wakfIxUHYQo",
-            "thumbnail": "https://i.ytimg.com/vi/wakfIxUHYQo/hqdefault.jpg",
-            "views": "212 182",
-            "likes": "7 308",
-            "hashtags": [
-                "#gaming",
-                "#caseoh",
-                "#caseohgames",
-                "#case",
                 "#funny",
-                "#streamer",
-                "#horror",
-                "#horrorgaming"
+                "#escapefromtarkov",
+                "#tarkov"
             ],
-            "description": "Starforge  https://starforgepc.com/CaseOh ",
-            "channel_title": "CaseOh"
+            "description": "",
+            "channel_title": "TheBurntPeanut"
         },
         {
             "title": "Ricardo Arjona y Grupo Firme - Amor Factura (Video Oficial)  ⁨@ArjonaOficial @GrupoFirmeOficial",
             "video_url": "https://www.youtube.com/watch?v=WDgiZpKJBHQ",
             "thumbnail": "https://i.ytimg.com/vi/WDgiZpKJBHQ/hqdefault.jpg",
-            "views": "180 829",
-            "likes": "32 921",
+            "views": "903 521",
+            "likes": "54 005",
             "hashtags": [
                 "#ricardo",
                 "#arjona",
@@ -112,11 +65,58 @@
             "channel_title": "Ricardo Arjona"
         },
         {
+            "title": "Dexter: Resurrection | Season 2 Official Trailer | Paramount+",
+            "video_url": "https://www.youtube.com/watch?v=nTOf1FIsBcs",
+            "thumbnail": "https://i.ytimg.com/vi/nTOf1FIsBcs/hqdefault.jpg",
+            "views": "3 229 034",
+            "likes": "42 326",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "Some things get better with age. ",
+            "channel_title": "Paramount Plus"
+        },
+        {
+            "title": "Don’t Drop The Cake…",
+            "video_url": "https://www.youtube.com/watch?v=wakfIxUHYQo",
+            "thumbnail": "https://i.ytimg.com/vi/wakfIxUHYQo/hqdefault.jpg",
+            "views": "570 706",
+            "likes": "12 885",
+            "hashtags": [
+                "#gaming",
+                "#caseoh",
+                "#caseohgames",
+                "#case",
+                "#funny",
+                "#streamer",
+                "#horror",
+                "#horrorgaming"
+            ],
+            "description": "Starforge  https://starforgepc.com/CaseOh ",
+            "channel_title": "CaseOh"
+        },
+        {
+            "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
+            "video_url": "https://www.youtube.com/watch?v=PVVKKwYeEQs",
+            "thumbnail": "https://i.ytimg.com/vi/PVVKKwYeEQs/hqdefault.jpg",
+            "views": "861 336",
+            "likes": "45 945",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "Music:",
+            "channel_title": "Romeo Santos"
+        },
+        {
             "title": "Ebenezer | Official Trailer 2 (2026 Movie) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin",
             "video_url": "https://www.youtube.com/watch?v=l_Ozo1xUgbU",
             "thumbnail": "https://i.ytimg.com/vi/l_Ozo1xUgbU/hqdefault.jpg",
-            "views": "8 760 699",
-            "likes": "12 898",
+            "views": "10 581 060",
+            "likes": "15 616",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
@@ -126,35 +126,33 @@
             "channel_title": "Paramount Pictures"
         },
         {
-            "title": "Fortnitemares 2026 | Gameplay Trailer",
-            "video_url": "https://www.youtube.com/watch?v=7qQFLL_DJ7Q",
-            "thumbnail": "https://i.ytimg.com/vi/7qQFLL_DJ7Q/hqdefault.jpg",
-            "views": "773 440",
-            "likes": "31 037",
+            "title": "EP 1: ROOFTOPS, PENTHOUSES, AND URBAN LIVING",
+            "video_url": "https://www.youtube.com/watch?v=_h_pQ1-5iQg",
+            "thumbnail": "https://i.ytimg.com/vi/_h_pQ1-5iQg/hqdefault.jpg",
+            "views": "1 646 600",
+            "likes": "105 710",
             "hashtags": [
-                "#yt:cc=on"
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
             ],
-            "description": "A cursed cartridge is corrupting the Island, unleashing new terrors, weapons, bosses, and more! Face down Five Nights at Freddy's bosses, wield weapons like the Bonerattler SMG and Freddy Krueger's ic...",
-            "channel_title": "Fortnite"
+            "description": "In this episode, I discuss why I decided to start the Minecraft City, followed by an examination of the first building downtown and other key rooftop properties.",
+            "channel_title": "Mike Tomlin"
         },
         {
-            "title": "YO QUIERO RMX Hades66, Arcángel, Myke Towers, Luar La L- (Video Oficial)",
-            "video_url": "https://www.youtube.com/watch?v=jN4XBExBOCM",
-            "thumbnail": "https://i.ytimg.com/vi/jN4XBExBOCM/hqdefault.jpg",
-            "views": "421 751",
-            "likes": "57 632",
+            "title": "Quebec",
+            "video_url": "https://www.youtube.com/watch?v=6gRbAU4Puek",
+            "thumbnail": "https://i.ytimg.com/vi/6gRbAU4Puek/hqdefault.jpg",
+            "views": "247 259",
+            "likes": "6 955",
             "hashtags": [
-                "#Hades66",
-                "#LaMRecords",
-                "#PR",
-                "#LaM",
-                "#El66",
-                "#Manhattan2",
-                "#Manhattan",
-                "#ManhattanII"
+                "#Drake",
+                "#ドレイク",
+                "#HABIBTI(FOMO)",
+                "#Quebec"
             ],
-            "description": "Hades66, Arcángel, Myke Towers, Luar La L- YO QUIERO REMIX (Video Oficial)",
-            "channel_title": "Hades 66"
+            "description": "Provided to YouTube by Universal Music Group",
+            "channel_title": "Drake - Topic"
         }
     ]
 }
