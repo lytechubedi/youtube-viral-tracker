@@ -1,12 +1,55 @@
 {
-    "last_updated": "22/10/2026 à 16:40",
+    "last_updated": "23/10/2026 à 03:29",
     "videos": [
+        {
+            "title": "WATCH ME",
+            "video_url": "https://www.youtube.com/watch?v=VOCEZQSO3t4",
+            "thumbnail": "https://i.ytimg.com/vi/VOCEZQSO3t4/hqdefault.jpg",
+            "views": "636 481",
+            "likes": "20 298",
+            "hashtags": [
+                "#K/DA",
+                "#LeagueofLegends",
+                "#MimiWebb",
+                "#SophiePowers",
+                "#FIRESTARTER",
+                "#WATCHME"
+            ],
+            "description": "Provided to YouTube by Virgin Music Group",
+            "channel_title": "K/DA - Topic"
+        },
+        {
+            "title": "Mass Effect 5 Trailer Leak",
+            "video_url": "https://www.youtube.com/watch?v=hsRtzt_ApsU",
+            "thumbnail": "https://i.ytimg.com/vi/hsRtzt_ApsU/hqdefault.jpg",
+            "views": "83 689",
+            "likes": "2 575",
+            "hashtags": [
+                "#masseffect",
+                "#bioware"
+            ],
+            "description": "Original comment on reddit:",
+            "channel_title": "deyoku"
+        },
+        {
+            "title": "🔴LIVE | NEW COD MULTIPLAYER | TIM X NICKMERCS X HUTCH X DRAC X NICO | I DIDN'T SLEEP | #Bungulate",
+            "video_url": "https://www.youtube.com/watch?v=vQtP0JzeUMw",
+            "thumbnail": "https://i.ytimg.com/vi/vQtP0JzeUMw/hqdefault.jpg",
+            "views": "816 875",
+            "likes": "10 313",
+            "hashtags": [
+                "#funny",
+                "#gaming"
+            ],
+            "description": "",
+            "channel_title": "TheBurntPeanut"
+        },
         {
             "title": "FattMack - Conversation [Official Music Video]",
             "video_url": "https://www.youtube.com/watch?v=Af5QTrnWrI4",
             "thumbnail": "https://i.ytimg.com/vi/Af5QTrnWrI4/hqdefault.jpg",
-            "views": "114 930",
-            "likes": "10 454",
+            "views": "171 292",
+            "likes": "12 627",
             "hashtags": [
                 "#TrendingUS",
                 "#Viral",
@@ -19,8 +62,8 @@
             "title": "The Rings of Power - Season 3 Official Trailer | Prime Video",
             "video_url": "https://www.youtube.com/watch?v=maP_Kyy3DCA",
             "thumbnail": "https://i.ytimg.com/vi/maP_Kyy3DCA/hqdefault.jpg",
-            "views": "883 508",
-            "likes": "18 199",
+            "views": "3 828 761",
+            "likes": "21 361",
             "hashtags": [
                 "#theringsofpowerseason3officialtrailer",
                 "#theringsofpowerseason3trailer",
@@ -35,11 +78,63 @@
             "channel_title": "Prime Video"
         },
         {
+            "title": "Halloween On Goober Street…",
+            "video_url": "https://www.youtube.com/watch?v=iHE0ChOoP8w",
+            "thumbnail": "https://i.ytimg.com/vi/iHE0ChOoP8w/hqdefault.jpg",
+            "views": "223 020",
+            "likes": "8 826",
+            "hashtags": [
+                "#gaming",
+                "#caseoh",
+                "#caseohgames",
+                "#case",
+                "#funny",
+                "#streamer",
+                "#horror",
+                "#horrorgaming"
+            ],
+            "description": "Starforge  https://starforgepc.com/CaseOh ",
+            "channel_title": "CaseOh"
+        },
+        {
+            "title": "DeeBaby - Blood Sweat Tears Freestyle",
+            "video_url": "https://www.youtube.com/watch?v=9ov2RJJSZjE",
+            "thumbnail": "https://i.ytimg.com/vi/9ov2RJJSZjE/hqdefault.jpg",
+            "views": "155 464",
+            "likes": "9 286",
+            "hashtags": [
+                "#TrendingUS",
+                "#Viral",
+                "#Shorts"
+            ],
+            "description": "",
+            "channel_title": "Official DeeBabyTV"
+        },
+        {
+            "title": "MEET THE VILLAINS - Calling All Villains",
+            "video_url": "https://www.youtube.com/watch?v=IoUxPuoB1XE",
+            "thumbnail": "https://i.ytimg.com/vi/IoUxPuoB1XE/hqdefault.jpg",
+            "views": "425 098",
+            "likes": "23 017",
+            "hashtags": [
+                "#callingallvillains",
+                "#zamination",
+                "#indieanimation",
+                "#characterintros",
+                "#ladykiller",
+                "#mr.puzzles",
+                "#wpnz",
+                "#lordgeneral"
+            ],
+            "description": "The FINAL TRAILER drops Oct 24th.",
+            "channel_title": "ZAMination"
+        },
+        {
             "title": "DO NOT Gamble at this Casino",
             "video_url": "https://www.youtube.com/watch?v=l5Q3alU1g_c",
             "thumbnail": "https://i.ytimg.com/vi/l5Q3alU1g_c/hqdefault.jpg",
-            "views": "1 978 079",
-            "likes": "59 115",
+            "views": "2 546 511",
+            "likes": "68 610",
             "hashtags": [
                 "#smii7y",
                 "#smii7yplus",
@@ -54,105 +149,23 @@
             "channel_title": "SMii7Y"
         },
         {
-            "title": "❌Ángel Caído (R.I.P. Santa Fe Klan)❌ 🐀",
-            "video_url": "https://www.youtube.com/watch?v=gApykAFAgbg",
-            "thumbnail": "https://i.ytimg.com/vi/gApykAFAgbg/hqdefault.jpg",
-            "views": "1 923 570",
-            "likes": "89 188",
+            "title": "Ren - The Music Business",
+            "video_url": "https://www.youtube.com/watch?v=zFLO82v3mjA",
+            "thumbnail": "https://i.ytimg.com/vi/zFLO82v3mjA/hqdefault.jpg",
+            "views": "267 664",
+            "likes": "24 628",
             "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
+                "#ren",
+                "#renmakesmusic",
+                "#RenMusic",
+                "#RenNewMusic",
+                "#RenHiRen",
+                "#RenReaction",
+                "#RenReactions",
+                "#RenAnimalFlow"
             ],
-            "description": "Te gusta incitar a la gente a que me tire cagada, ahora van a conocer a la cagada de persona que eres.",
-            "channel_title": "TornillO Oficial"
-        },
-        {
-            "title": "Phantom Blade Zero - Official Launch Trailer",
-            "video_url": "https://www.youtube.com/watch?v=qgJBFa952mY",
-            "thumbnail": "https://i.ytimg.com/vi/qgJBFa952mY/hqdefault.jpg",
-            "views": "636 371",
-            "likes": "21 062",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "Phantom Blade Zero brings the speed and spectacle of kungfu cinema to life in an epic journey through the world of Kungfupunk.",
-            "channel_title": "Phantom Blade Zero"
-        },
-        {
-            "title": "🔴LIVE | COD DMZ | Cloakzy X Kona | WACKADOODLE WEDENSDAY | #Bungulate",
-            "video_url": "https://www.youtube.com/watch?v=y-RUS0QFeLE",
-            "thumbnail": "https://i.ytimg.com/vi/y-RUS0QFeLE/hqdefault.jpg",
-            "views": "1 067 021",
-            "likes": "10 619",
-            "hashtags": [
-                "#funny",
-                "#gaming"
-            ],
-            "description": "",
-            "channel_title": "TheBurntPeanut"
-        },
-        {
-            "title": "PlaqueBoyMax & Jacquees - Familiar (Official Music Video)",
-            "video_url": "https://www.youtube.com/watch?v=vnCiLqjv44I",
-            "thumbnail": "https://i.ytimg.com/vi/vnCiLqjv44I/hqdefault.jpg",
-            "views": "218 107",
-            "likes": "13 755",
-            "hashtags": [
-                "#5starRecords",
-                "#5$TARRECORDS",
-                "#5star",
-                "#fivestar",
-                "#fivestarlabel",
-                "#fivestarthelabel",
-                "#plaqueboymax",
-                "#plaqueboymaxmusic"
-            ],
-            "description": "Familiar By PlaqueBoyMax & Jacquees Official Music Video ",
-            "channel_title": "PlaqueBoyMax"
-        },
-        {
-            "title": "Honest Trailers | Spider-Man: Brand New Day",
-            "video_url": "https://www.youtube.com/watch?v=eQf6nDraYQg",
-            "thumbnail": "https://i.ytimg.com/vi/eQf6nDraYQg/hqdefault.jpg",
-            "views": "977 667",
-            "likes": "19 821",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "When the MCU needs a Brand New Day at the box office, Spider-Man is here to deliver! Can you believe this is only the 11th Spider-Man movie? Feels like it's the 7th or 8th, tops.",
-            "channel_title": "Screen Junkies"
-        },
-        {
-            "title": "The Halloween Update (Trailer)",
-            "video_url": "https://www.youtube.com/watch?v=JHDGV1esB1g",
-            "thumbnail": "https://i.ytimg.com/vi/JHDGV1esB1g/hqdefault.jpg",
-            "views": "841 103",
-            "likes": "57 677",
-            "hashtags": [
-                "#TrendingUS",
-                "#Viral",
-                "#Shorts"
-            ],
-            "description": "more shenanigans!!!!!!!!!!!!!",
-            "channel_title": "Tze"
-        },
-        {
-            "title": "Wanuga Tarugana(ft.Jah-Ben & Java Gee)",
-            "video_url": "https://www.youtube.com/watch?v=WBN1AoBoFQ8",
-            "thumbnail": "https://i.ytimg.com/vi/WBN1AoBoFQ8/hqdefault.jpg",
-            "views": "71 819",
-            "likes": "1 917",
-            "hashtags": [
-                "#JeruuJBK's",
-                "#WanugaTarugana(ft.Jah-Ben&JavaGee)"
-            ],
-            "description": "Provided to YouTube by DistroKid",
-            "channel_title": "Jeruu JBK's - Topic"
+            "description": "Help support me by joining my Patreon: https://www.patreon.com/renmakesmusic",
+            "channel_title": "Ren"
         }
     ]
 }
